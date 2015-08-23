@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: fa5287b12d64ec541b6d2b0b2ab6719d
+timeCreated: 1439527655
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Vic Bip01
+    100002: VIC Bip01 Footsteps
+    100004: Vic Bone00
+    100006: Vic Bone01
+    100008: Vic Bone02
+    100010: Vic Bone03
+    100012: Vic Bone04
+    100014: Vic Bone05
+    100016: Vic Bone06
+    100018: Vic Bone07
+    100020: Vic Bone08
+    100022: Vic Bone09
+    100024: Vic Bone10
+    100026: Vic Bone11
+    100028: Vic Grusen knight Suit
+    100030: Vic Grusen knight sword Dummy
+    100032: Vic Head
+    100034: Vic HeadNub
+    100036: Vic L Calf
+    100038: Vic L Clavicle
+    100040: Vic L Finger0
+    100042: Vic L Finger01
+    100044: Vic L Finger02
+    100046: Vic L Finger0Nub
+    100048: Vic L Finger1
+    100050: Vic L Finger11
+    100052: Vic L Finger12
+    100054: Vic L Finger1Nub
+    100056: Vic L Finger2
+    100058: Vic L Finger21
+    100060: Vic L Finger22
+    100062: Vic L Finger2Nub
+    100064: Vic L Finger3
+    100066: Vic L Finger31
+    100068: Vic L Finger32
+    100070: Vic L Finger3Nub
+    100072: Vic L Finger4
+    100074: Vic L Finger41
+    100076: Vic L Finger42
+    100078: Vic L Finger4Nub
+    100080: Vic L Foot
+    100082: Vic L Forearm
+    100084: Vic L Hand
+    100086: Vic L Thigh
+    100088: Vic L Toe0
+    100090: Vic L Toe01
+    100092: Vic L Toe02
+    100094: Vic L Toe0Nub
+    100096: Vic L UpperArm
+    100098: Vic Neck
+    100100: Vic Pelvis
+    100102: Vic R Calf
+    100104: Vic R Clavicle
+    100106: Vic R Finger0
+    100108: Vic R Finger01
+    100110: Vic R Finger02
+    100112: Vic R Finger0Nub
+    100114: Vic R Finger1
+    100116: Vic R Finger11
+    100118: Vic R Finger12
+    100120: Vic R Finger1Nub
+    100122: Vic R Finger2
+    100124: Vic R Finger21
+    100126: Vic R Finger22
+    100128: Vic R Finger2Nub
+    100130: Vic R Finger3
+    100132: Vic R Finger31
+    100134: Vic R Finger32
+    100136: Vic R Finger3Nub
+    100138: Vic R Finger4
+    100140: Vic R Finger41
+    100142: Vic R Finger42
+    100144: Vic R Finger4Nub
+    100146: Vic R Foot
+    100148: Vic R Forearm
+    100150: Vic R Hand
+    100152: Vic R Thigh
+    100154: Vic R Toe0
+    100156: Vic R Toe01
+    100158: Vic R Toe02
+    100160: Vic R Toe0Nub
+    100162: Vic R UpperArm
+    100164: Vic Spine
+    100166: Vic Spine1
+    100168: Vic Spine2
+    100170: Vic Spine3
+    100172: //RootNode
+    100174: Vic_Head
+    400000: Vic Bip01
+    400002: VIC Bip01 Footsteps
+    400004: Vic Bone00
+    400006: Vic Bone01
+    400008: Vic Bone02
+    400010: Vic Bone03
+    400012: Vic Bone04
+    400014: Vic Bone05
+    400016: Vic Bone06
+    400018: Vic Bone07
+    400020: Vic Bone08
+    400022: Vic Bone09
+    400024: Vic Bone10
+    400026: Vic Bone11
+    400028: Vic Grusen knight Suit
+    400030: Vic Grusen knight sword Dummy
+    400032: Vic Head
+    400034: Vic HeadNub
+    400036: Vic L Calf
+    400038: Vic L Clavicle
+    400040: Vic L Finger0
+    400042: Vic L Finger01
+    400044: Vic L Finger02
+    400046: Vic L Finger0Nub
+    400048: Vic L Finger1
+    400050: Vic L Finger11
+    400052: Vic L Finger12
+    400054: Vic L Finger1Nub
+    400056: Vic L Finger2
+    400058: Vic L Finger21
+    400060: Vic L Finger22
+    400062: Vic L Finger2Nub
+    400064: Vic L Finger3
+    400066: Vic L Finger31
+    400068: Vic L Finger32
+    400070: Vic L Finger3Nub
+    400072: Vic L Finger4
+    400074: Vic L Finger41
+    400076: Vic L Finger42
+    400078: Vic L Finger4Nub
+    400080: Vic L Foot
+    400082: Vic L Forearm
+    400084: Vic L Hand
+    400086: Vic L Thigh
+    400088: Vic L Toe0
+    400090: Vic L Toe01
+    400092: Vic L Toe02
+    400094: Vic L Toe0Nub
+    400096: Vic L UpperArm
+    400098: Vic Neck
+    400100: Vic Pelvis
+    400102: Vic R Calf
+    400104: Vic R Clavicle
+    400106: Vic R Finger0
+    400108: Vic R Finger01
+    400110: Vic R Finger02
+    400112: Vic R Finger0Nub
+    400114: Vic R Finger1
+    400116: Vic R Finger11
+    400118: Vic R Finger12
+    400120: Vic R Finger1Nub
+    400122: Vic R Finger2
+    400124: Vic R Finger21
+    400126: Vic R Finger22
+    400128: Vic R Finger2Nub
+    400130: Vic R Finger3
+    400132: Vic R Finger31
+    400134: Vic R Finger32
+    400136: Vic R Finger3Nub
+    400138: Vic R Finger4
+    400140: Vic R Finger41
+    400142: Vic R Finger42
+    400144: Vic R Finger4Nub
+    400146: Vic R Foot
+    400148: Vic R Forearm
+    400150: Vic R Hand
+    400152: Vic R Thigh
+    400154: Vic R Toe0
+    400156: Vic R Toe01
+    400158: Vic R Toe02
+    400160: Vic R Toe0Nub
+    400162: Vic R UpperArm
+    400164: Vic Spine
+    400166: Vic Spine1
+    400168: Vic Spine2
+    400170: Vic Spine3
+    400172: //RootNode
+    400174: Vic_Head
+    4300000: Vic_Head
+    4300002: Vic Grusen knight Suit
+    7400000: Idle
+    9500000: //RootNode
+    13700000: Vic Grusen knight Suit
+    13700002: Vic_Head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Vic Bip01
+        weight: 1
+      - path: Vic Bip01/VIC Bip01 Footsteps
+        weight: 1
+      - path: Vic Bip01/Vic Grusen knight Suit
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Bone04
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Bone05
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Bone06
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Bone06/Vic Grusen knight sword Dummy
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Bone07
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Bone08
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Bone09
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Bone10
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Bone11
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic L Thigh
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic L Thigh/Vic L Calf
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic L Thigh/Vic L Calf/Vic L Foot
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic L Thigh/Vic L Calf/Vic L Foot/Vic
+          L Toe0
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic L Thigh/Vic L Calf/Vic L Foot/Vic
+          L Toe0/Vic L Toe01
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic L Thigh/Vic L Calf/Vic L Foot/Vic
+          L Toe0/Vic L Toe01/Vic L Toe02
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic L Thigh/Vic L Calf/Vic L Foot/Vic
+          L Toe0/Vic L Toe01/Vic L Toe02/Vic L Toe0Nub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic R Thigh
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic R Thigh/Vic R Calf
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic R Thigh/Vic R Calf/Vic R Foot
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic R Thigh/Vic R Calf/Vic R Foot/Vic
+          R Toe0
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic R Thigh/Vic R Calf/Vic R Foot/Vic
+          R Toe0/Vic R Toe01
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic R Thigh/Vic R Calf/Vic R Foot/Vic
+          R Toe0/Vic R Toe01/Vic R Toe02
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic R Thigh/Vic R Calf/Vic R Foot/Vic
+          R Toe0/Vic R Toe01/Vic R Toe02/Vic R Toe0Nub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic Head
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic Head/Vic HeadNub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic Bone03
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic Bone03/Vic Bone02
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger0
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger0/Vic
+          L Finger01
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger0/Vic
+          L Finger01/Vic L Finger02
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger0/Vic
+          L Finger01/Vic L Finger02/Vic L Finger0Nub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger1
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger1/Vic
+          L Finger11
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger1/Vic
+          L Finger11/Vic L Finger12
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger1/Vic
+          L Finger11/Vic L Finger12/Vic L Finger1Nub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger2
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger2/Vic
+          L Finger21
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger2/Vic
+          L Finger21/Vic L Finger22
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger2/Vic
+          L Finger21/Vic L Finger22/Vic L Finger2Nub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger3
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger3/Vic
+          L Finger31
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger3/Vic
+          L Finger31/Vic L Finger32
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger3/Vic
+          L Finger31/Vic L Finger32/Vic L Finger3Nub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger4
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger4/Vic
+          L Finger41
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger4/Vic
+          L Finger41/Vic L Finger42
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic L Clavicle/Vic L UpperArm/Vic L Forearm/Vic L Hand/Vic L Finger4/Vic
+          L Finger41/Vic L Finger42/Vic L Finger4Nub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic Bone01
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic Bone01/Vic Bone00
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger0
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger0/Vic
+          R Finger01
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger0/Vic
+          R Finger01/Vic R Finger02
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger0/Vic
+          R Finger01/Vic R Finger02/Vic R Finger0Nub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger1
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger1/Vic
+          R Finger11
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger1/Vic
+          R Finger11/Vic R Finger12
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger1/Vic
+          R Finger11/Vic R Finger12/Vic R Finger1Nub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger2
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger2/Vic
+          R Finger21
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger2/Vic
+          R Finger21/Vic R Finger22
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger2/Vic
+          R Finger21/Vic R Finger22/Vic R Finger2Nub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger3
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger3/Vic
+          R Finger31
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger3/Vic
+          R Finger31/Vic R Finger32
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger3/Vic
+          R Finger31/Vic R Finger32/Vic R Finger3Nub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger4
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger4/Vic
+          R Finger41
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger4/Vic
+          R Finger41/Vic R Finger42
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic R Clavicle/Vic R UpperArm/Vic R Forearm/Vic R Hand/Vic R Finger4/Vic
+          R Finger41/Vic R Finger42/Vic R Finger4Nub
+        weight: 1
+      - path: Vic Bip01/Vic Pelvis/Vic Spine/Vic Spine1/Vic Spine2/Vic Spine3/Vic
+          Neck/Vic_Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

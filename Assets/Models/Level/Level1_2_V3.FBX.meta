@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: c7022ea7cd395ce4d80eae1b1b4e9a11
+timeCreated: 1439913384
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Level1_2_box
+    100002: LeveL1_2_grass01
+    100004: LeveL1_2_grass02
+    100006: LeveL1_2_grass03
+    100008: LeveL1_2_grass04
+    100010: LeveL1_2_grass05
+    100012: LeveL1_2_grass06
+    100014: LeveL1_2_grass07
+    100016: LeveL1_2_grass08
+    100018: LeveL1_2_grass09
+    100020: LeveL1_2_grass10
+    100022: LeveL1_2_grass11
+    100024: LeveL1_2_grass12
+    100026: LeveL1_2_grass13
+    100028: LeveL1_2_grass14
+    100030: LeveL1_2_grass15
+    100032: LeveL1_2_grass16
+    100034: LeveL1_2_grass17
+    100036: LeveL1_2_grass18
+    100038: LeveL1_2_grass19
+    100040: LeveL1_2_grass20
+    100042: LeveL1_2_grass21
+    100044: LeveL1_2_grass22
+    100046: LeveL1_2_grass23
+    100048: LeveL1_2_grass24
+    100050: LeveL1_2_grass25
+    100052: LeveL1_2_grass26
+    100054: LeveL1_2_grass27
+    100056: LeveL1_2_grass28
+    100058: LeveL1_2_grass29
+    100060: LeveL1_2_grass30
+    100062: LeveL1_2_Grassland01
+    100064: LeveL1_2_Grassland02
+    100066: LeveL1_2_Leaf01
+    100068: LeveL1_2_Leaf02
+    100070: LeveL1_2_Leaf03
+    100072: LeveL1_2_Mountain
+    100074: LeveL1_2_rock01
+    100076: LeveL1_2_rock02
+    100078: LeveL1_2_rock03
+    100080: LeveL1_2_rock04
+    100082: LeveL1_2_rock05
+    100084: LeveL1_2_rock06
+    100086: LeveL1_2_rock07
+    100088: LeveL1_2_rock08
+    100090: LeveL1_2_rock09
+    100092: LeveL1_2_rock10
+    100094: LeveL1_2_rock11
+    100096: LeveL1_2_rock12
+    100098: LeveL1_2_rock13
+    100100: LeveL1_2_rock14
+    100102: LeveL1_2_rock15
+    100104: LeveL1_2_rock16
+    100106: LeveL1_2_rock17
+    100108: LeveL1_2_root01
+    100110: LeveL1_2_root02
+    100112: LeveL1_2_root03
+    100114: LeveL1_2_Sentry01
+    100116: LeveL1_2_Sentry02
+    100118: LeveL1_2_Sentry03
+    100120: LeveL1_2_Torch
+    100122: LeveL1_2_tree01
+    100124: LeveL1_2_tree02
+    100126: LeveL1_2_tree03
+    100128: LeveL1_2_tree2D01
+    100130: LeveL1_2_tree2D02
+    100132: LeveL1_2_tree2D03
+    100134: LeveL1_2_tree2D04
+    100136: LeveL1_2_tree2D05
+    100138: LeveL1_2_tree2D06
+    100140: //RootNode
+    100142: LeveL1_2_wall
+    100144: LeveL1_2_Wood Fence01
+    100146: LeveL1_2_Wood Fence02
+    100148: LeveL1_2_Wood Fence03
+    100150: LeveL1_2_Wood Fence04
+    100152: LeveL1_2_Wood Fence05
+    100154: LeveL1_2_Wood Fence06
+    100156: LeveL1_2_WoodDoor
+    400000: Level1_2_box
+    400002: LeveL1_2_grass01
+    400004: LeveL1_2_grass02
+    400006: LeveL1_2_grass03
+    400008: LeveL1_2_grass04
+    400010: LeveL1_2_grass05
+    400012: LeveL1_2_grass06
+    400014: LeveL1_2_grass07
+    400016: LeveL1_2_grass08
+    400018: LeveL1_2_grass09
+    400020: LeveL1_2_grass10
+    400022: LeveL1_2_grass11
+    400024: LeveL1_2_grass12
+    400026: LeveL1_2_grass13
+    400028: LeveL1_2_grass14
+    400030: LeveL1_2_grass15
+    400032: LeveL1_2_grass16
+    400034: LeveL1_2_grass17
+    400036: LeveL1_2_grass18
+    400038: LeveL1_2_grass19
+    400040: LeveL1_2_grass20
+    400042: LeveL1_2_grass21
+    400044: LeveL1_2_grass22
+    400046: LeveL1_2_grass23
+    400048: LeveL1_2_grass24
+    400050: LeveL1_2_grass25
+    400052: LeveL1_2_grass26
+    400054: LeveL1_2_grass27
+    400056: LeveL1_2_grass28
+    400058: LeveL1_2_grass29
+    400060: LeveL1_2_grass30
+    400062: LeveL1_2_Grassland01
+    400064: LeveL1_2_Grassland02
+    400066: LeveL1_2_Leaf01
+    400068: LeveL1_2_Leaf02
+    400070: LeveL1_2_Leaf03
+    400072: LeveL1_2_Mountain
+    400074: LeveL1_2_rock01
+    400076: LeveL1_2_rock02
+    400078: LeveL1_2_rock03
+    400080: LeveL1_2_rock04
+    400082: LeveL1_2_rock05
+    400084: LeveL1_2_rock06
+    400086: LeveL1_2_rock07
+    400088: LeveL1_2_rock08
+    400090: LeveL1_2_rock09
+    400092: LeveL1_2_rock10
+    400094: LeveL1_2_rock11
+    400096: LeveL1_2_rock12
+    400098: LeveL1_2_rock13
+    400100: LeveL1_2_rock14
+    400102: LeveL1_2_rock15
+    400104: LeveL1_2_rock16
+    400106: LeveL1_2_rock17
+    400108: LeveL1_2_root01
+    400110: LeveL1_2_root02
+    400112: LeveL1_2_root03
+    400114: LeveL1_2_Sentry01
+    400116: LeveL1_2_Sentry02
+    400118: LeveL1_2_Sentry03
+    400120: LeveL1_2_Torch
+    400122: LeveL1_2_tree01
+    400124: LeveL1_2_tree02
+    400126: LeveL1_2_tree03
+    400128: LeveL1_2_tree2D01
+    400130: LeveL1_2_tree2D02
+    400132: LeveL1_2_tree2D03
+    400134: LeveL1_2_tree2D04
+    400136: LeveL1_2_tree2D05
+    400138: LeveL1_2_tree2D06
+    400140: //RootNode
+    400142: LeveL1_2_wall
+    400144: LeveL1_2_Wood Fence01
+    400146: LeveL1_2_Wood Fence02
+    400148: LeveL1_2_Wood Fence03
+    400150: LeveL1_2_Wood Fence04
+    400152: LeveL1_2_Wood Fence05
+    400154: LeveL1_2_Wood Fence06
+    400156: LeveL1_2_WoodDoor
+    2300000: Level1_2_box
+    2300002: LeveL1_2_grass01
+    2300004: LeveL1_2_grass02
+    2300006: LeveL1_2_grass03
+    2300008: LeveL1_2_grass04
+    2300010: LeveL1_2_grass05
+    2300012: LeveL1_2_grass06
+    2300014: LeveL1_2_grass07
+    2300016: LeveL1_2_grass08
+    2300018: LeveL1_2_grass09
+    2300020: LeveL1_2_grass10
+    2300022: LeveL1_2_grass11
+    2300024: LeveL1_2_grass12
+    2300026: LeveL1_2_grass13
+    2300028: LeveL1_2_grass14
+    2300030: LeveL1_2_grass15
+    2300032: LeveL1_2_grass16
+    2300034: LeveL1_2_grass17
+    2300036: LeveL1_2_grass18
+    2300038: LeveL1_2_grass19
+    2300040: LeveL1_2_grass20
+    2300042: LeveL1_2_grass21
+    2300044: LeveL1_2_grass22
+    2300046: LeveL1_2_grass23
+    2300048: LeveL1_2_grass24
+    2300050: LeveL1_2_grass25
+    2300052: LeveL1_2_grass26
+    2300054: LeveL1_2_grass27
+    2300056: LeveL1_2_grass28
+    2300058: LeveL1_2_grass29
+    2300060: LeveL1_2_grass30
+    2300062: LeveL1_2_Grassland01
+    2300064: LeveL1_2_Grassland02
+    2300066: LeveL1_2_Leaf01
+    2300068: LeveL1_2_Leaf02
+    2300070: LeveL1_2_Leaf03
+    2300072: LeveL1_2_Mountain
+    2300074: LeveL1_2_rock01
+    2300076: LeveL1_2_rock02
+    2300078: LeveL1_2_rock03
+    2300080: LeveL1_2_rock04
+    2300082: LeveL1_2_rock05
+    2300084: LeveL1_2_rock06
+    2300086: LeveL1_2_rock07
+    2300088: LeveL1_2_rock08
+    2300090: LeveL1_2_rock09
+    2300092: LeveL1_2_rock10
+    2300094: LeveL1_2_rock11
+    2300096: LeveL1_2_rock12
+    2300098: LeveL1_2_rock13
+    2300100: LeveL1_2_rock14
+    2300102: LeveL1_2_rock15
+    2300104: LeveL1_2_rock16
+    2300106: LeveL1_2_rock17
+    2300108: LeveL1_2_root01
+    2300110: LeveL1_2_root02
+    2300112: LeveL1_2_root03
+    2300114: LeveL1_2_Sentry01
+    2300116: LeveL1_2_Sentry02
+    2300118: LeveL1_2_Sentry03
+    2300120: LeveL1_2_Torch
+    2300122: LeveL1_2_tree2D01
+    2300124: LeveL1_2_tree2D02
+    2300126: LeveL1_2_tree2D03
+    2300128: LeveL1_2_tree2D04
+    2300130: LeveL1_2_tree2D05
+    2300132: LeveL1_2_tree2D06
+    2300134: LeveL1_2_wall
+    2300136: LeveL1_2_Wood Fence01
+    2300138: LeveL1_2_Wood Fence02
+    2300140: LeveL1_2_Wood Fence03
+    2300142: LeveL1_2_Wood Fence04
+    2300144: LeveL1_2_Wood Fence05
+    2300146: LeveL1_2_Wood Fence06
+    2300148: LeveL1_2_WoodDoor
+    3300000: Level1_2_box
+    3300002: LeveL1_2_grass01
+    3300004: LeveL1_2_grass02
+    3300006: LeveL1_2_grass03
+    3300008: LeveL1_2_grass04
+    3300010: LeveL1_2_grass05
+    3300012: LeveL1_2_grass06
+    3300014: LeveL1_2_grass07
+    3300016: LeveL1_2_grass08
+    3300018: LeveL1_2_grass09
+    3300020: LeveL1_2_grass10
+    3300022: LeveL1_2_grass11
+    3300024: LeveL1_2_grass12
+    3300026: LeveL1_2_grass13
+    3300028: LeveL1_2_grass14
+    3300030: LeveL1_2_grass15
+    3300032: LeveL1_2_grass16
+    3300034: LeveL1_2_grass17
+    3300036: LeveL1_2_grass18
+    3300038: LeveL1_2_grass19
+    3300040: LeveL1_2_grass20
+    3300042: LeveL1_2_grass21
+    3300044: LeveL1_2_grass22
+    3300046: LeveL1_2_grass23
+    3300048: LeveL1_2_grass24
+    3300050: LeveL1_2_grass25
+    3300052: LeveL1_2_grass26
+    3300054: LeveL1_2_grass27
+    3300056: LeveL1_2_grass28
+    3300058: LeveL1_2_grass29
+    3300060: LeveL1_2_grass30
+    3300062: LeveL1_2_Grassland01
+    3300064: LeveL1_2_Grassland02
+    3300066: LeveL1_2_Leaf01
+    3300068: LeveL1_2_Leaf02
+    3300070: LeveL1_2_Leaf03
+    3300072: LeveL1_2_Mountain
+    3300074: LeveL1_2_rock01
+    3300076: LeveL1_2_rock02
+    3300078: LeveL1_2_rock03
+    3300080: LeveL1_2_rock04
+    3300082: LeveL1_2_rock05
+    3300084: LeveL1_2_rock06
+    3300086: LeveL1_2_rock07
+    3300088: LeveL1_2_rock08
+    3300090: LeveL1_2_rock09
+    3300092: LeveL1_2_rock10
+    3300094: LeveL1_2_rock11
+    3300096: LeveL1_2_rock12
+    3300098: LeveL1_2_rock13
+    3300100: LeveL1_2_rock14
+    3300102: LeveL1_2_rock15
+    3300104: LeveL1_2_rock16
+    3300106: LeveL1_2_rock17
+    3300108: LeveL1_2_root01
+    3300110: LeveL1_2_root02
+    3300112: LeveL1_2_root03
+    3300114: LeveL1_2_Sentry01
+    3300116: LeveL1_2_Sentry02
+    3300118: LeveL1_2_Sentry03
+    3300120: LeveL1_2_Torch
+    3300122: LeveL1_2_tree2D01
+    3300124: LeveL1_2_tree2D02
+    3300126: LeveL1_2_tree2D03
+    3300128: LeveL1_2_tree2D04
+    3300130: LeveL1_2_tree2D05
+    3300132: LeveL1_2_tree2D06
+    3300134: LeveL1_2_wall
+    3300136: LeveL1_2_Wood Fence01
+    3300138: LeveL1_2_Wood Fence02
+    3300140: LeveL1_2_Wood Fence03
+    3300142: LeveL1_2_Wood Fence04
+    3300144: LeveL1_2_Wood Fence05
+    3300146: LeveL1_2_Wood Fence06
+    3300148: LeveL1_2_WoodDoor
+    4300000: LeveL1_2_wall
+    4300002: LeveL1_2_Sentry03
+    4300004: LeveL1_2_Torch
+    4300006: LeveL1_2_WoodDoor
+    4300008: LeveL1_2_Wood Fence01
+    4300010: LeveL1_2_Mountain
+    4300012: LeveL1_2_Grassland01
+    4300014: LeveL1_2_rock01
+    4300016: LeveL1_2_root01
+    4300018: LeveL1_2_Leaf01
+    4300020: LeveL1_2_Sentry02
+    4300022: LeveL1_2_grass01
+    4300024: LeveL1_2_grass02
+    4300026: LeveL1_2_grass03
+    4300028: LeveL1_2_grass04
+    4300030: LeveL1_2_grass05
+    4300032: LeveL1_2_grass06
+    4300034: LeveL1_2_grass07
+    4300036: LeveL1_2_grass08
+    4300038: LeveL1_2_grass09
+    4300040: LeveL1_2_grass10
+    4300042: LeveL1_2_grass11
+    4300044: LeveL1_2_grass12
+    4300046: LeveL1_2_grass13
+    4300048: LeveL1_2_grass14
+    4300050: LeveL1_2_grass15
+    4300052: LeveL1_2_grass16
+    4300054: LeveL1_2_grass17
+    4300056: LeveL1_2_grass18
+    4300058: LeveL1_2_grass19
+    4300060: LeveL1_2_grass20
+    4300062: LeveL1_2_grass21
+    4300064: LeveL1_2_grass22
+    4300066: LeveL1_2_grass23
+    4300068: LeveL1_2_grass24
+    4300070: LeveL1_2_grass25
+    4300072: LeveL1_2_grass26
+    4300074: LeveL1_2_rock02
+    4300076: LeveL1_2_root03
+    4300078: LeveL1_2_Leaf03
+    4300080: LeveL1_2_grass27
+    4300082: LeveL1_2_tree2D01
+    4300084: LeveL1_2_tree2D02
+    4300086: LeveL1_2_tree2D03
+    4300088: LeveL1_2_tree2D04
+    4300090: LeveL1_2_tree2D05
+    4300092: LeveL1_2_tree2D06
+    4300094: LeveL1_2_root02
+    4300096: LeveL1_2_Leaf02
+    4300098: LeveL1_2_grass28
+    4300100: LeveL1_2_rock03
+    4300102: LeveL1_2_rock04
+    4300104: LeveL1_2_rock05
+    4300106: LeveL1_2_rock06
+    4300108: LeveL1_2_rock07
+    4300110: LeveL1_2_rock08
+    4300112: LeveL1_2_rock09
+    4300114: LeveL1_2_rock10
+    4300116: LeveL1_2_rock11
+    4300118: LeveL1_2_rock12
+    4300120: LeveL1_2_rock13
+    4300122: LeveL1_2_rock14
+    4300124: LeveL1_2_rock15
+    4300126: LeveL1_2_rock16
+    4300128: LeveL1_2_rock17
+    4300130: LeveL1_2_Wood Fence02
+    4300132: LeveL1_2_Wood Fence03
+    4300134: LeveL1_2_Wood Fence04
+    4300136: LeveL1_2_Wood Fence05
+    4300138: LeveL1_2_Wood Fence06
+    4300140: LeveL1_2_grass29
+    4300142: LeveL1_2_grass30
+    4300144: LeveL1_2_Sentry01
+    4300146: Level1_2_box
+    4300148: LeveL1_2_Grassland02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

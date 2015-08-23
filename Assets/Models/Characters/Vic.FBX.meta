@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 7a7d89f9d82a95144bedefcfee8ab81b
+timeCreated: 1439889936
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Vic Bip01
+    100004: VIC Bip01 Footsteps
+    100006: Vic Bone00
+    100008: Vic Bone01
+    100010: Vic Bone02
+    100012: Vic Bone03
+    100014: Vic Bone04
+    100016: Vic Bone05
+    100018: Vic Bone06
+    100020: Vic Bone07
+    100022: Vic Bone08
+    100024: Vic Bone09
+    100026: Vic Bone10
+    100028: Vic Bone11
+    100030: Vic Grusen knight Suit
+    100032: Vic Grusen knight sword Dummy
+    100034: Vic Head
+    100036: Vic HeadNub
+    100038: Vic L Calf
+    100040: Vic L Clavicle
+    100042: Vic L Finger0
+    100044: Vic L Finger01
+    100046: Vic L Finger02
+    100048: Vic L Finger0Nub
+    100050: Vic L Finger1
+    100052: Vic L Finger11
+    100054: Vic L Finger12
+    100056: Vic L Finger1Nub
+    100058: Vic L Finger2
+    100060: Vic L Finger21
+    100062: Vic L Finger22
+    100064: Vic L Finger2Nub
+    100066: Vic L Finger3
+    100068: Vic L Finger31
+    100070: Vic L Finger32
+    100072: Vic L Finger3Nub
+    100074: Vic L Finger4
+    100076: Vic L Finger41
+    100078: Vic L Finger42
+    100080: Vic L Finger4Nub
+    100082: Vic L Foot
+    100084: Vic L Forearm
+    100086: Vic L Hand
+    100088: Vic L Thigh
+    100090: Vic L Toe0
+    100092: Vic L Toe01
+    100094: Vic L Toe02
+    100096: Vic L Toe0Nub
+    100098: Vic L UpperArm
+    100100: Vic Neck
+    100102: Vic Pelvis
+    100104: Vic R Calf
+    100106: Vic R Clavicle
+    100108: Vic R Finger0
+    100110: Vic R Finger01
+    100112: Vic R Finger02
+    100114: Vic R Finger0Nub
+    100116: Vic R Finger1
+    100118: Vic R Finger11
+    100120: Vic R Finger12
+    100122: Vic R Finger1Nub
+    100124: Vic R Finger2
+    100126: Vic R Finger21
+    100128: Vic R Finger22
+    100130: Vic R Finger2Nub
+    100132: Vic R Finger3
+    100134: Vic R Finger31
+    100136: Vic R Finger32
+    100138: Vic R Finger3Nub
+    100140: Vic R Finger4
+    100142: Vic R Finger41
+    100144: Vic R Finger42
+    100146: Vic R Finger4Nub
+    100148: Vic R Foot
+    100150: Vic R Forearm
+    100152: Vic R Hand
+    100154: Vic R Thigh
+    100156: Vic R Toe0
+    100158: Vic R Toe01
+    100160: Vic R Toe02
+    100162: Vic R Toe0Nub
+    100164: Vic R UpperArm
+    100166: Vic Spine
+    100168: Vic Spine1
+    100170: Vic Spine2
+    100172: Vic Spine3
+    100174: Vic_Head
+    400000: //RootNode
+    400002: Vic Bip01
+    400004: VIC Bip01 Footsteps
+    400006: Vic Bone00
+    400008: Vic Bone01
+    400010: Vic Bone02
+    400012: Vic Bone03
+    400014: Vic Bone04
+    400016: Vic Bone05
+    400018: Vic Bone06
+    400020: Vic Bone07
+    400022: Vic Bone08
+    400024: Vic Bone09
+    400026: Vic Bone10
+    400028: Vic Bone11
+    400030: Vic Grusen knight Suit
+    400032: Vic Grusen knight sword Dummy
+    400034: Vic Head
+    400036: Vic HeadNub
+    400038: Vic L Calf
+    400040: Vic L Clavicle
+    400042: Vic L Finger0
+    400044: Vic L Finger01
+    400046: Vic L Finger02
+    400048: Vic L Finger0Nub
+    400050: Vic L Finger1
+    400052: Vic L Finger11
+    400054: Vic L Finger12
+    400056: Vic L Finger1Nub
+    400058: Vic L Finger2
+    400060: Vic L Finger21
+    400062: Vic L Finger22
+    400064: Vic L Finger2Nub
+    400066: Vic L Finger3
+    400068: Vic L Finger31
+    400070: Vic L Finger32
+    400072: Vic L Finger3Nub
+    400074: Vic L Finger4
+    400076: Vic L Finger41
+    400078: Vic L Finger42
+    400080: Vic L Finger4Nub
+    400082: Vic L Foot
+    400084: Vic L Forearm
+    400086: Vic L Hand
+    400088: Vic L Thigh
+    400090: Vic L Toe0
+    400092: Vic L Toe01
+    400094: Vic L Toe02
+    400096: Vic L Toe0Nub
+    400098: Vic L UpperArm
+    400100: Vic Neck
+    400102: Vic Pelvis
+    400104: Vic R Calf
+    400106: Vic R Clavicle
+    400108: Vic R Finger0
+    400110: Vic R Finger01
+    400112: Vic R Finger02
+    400114: Vic R Finger0Nub
+    400116: Vic R Finger1
+    400118: Vic R Finger11
+    400120: Vic R Finger12
+    400122: Vic R Finger1Nub
+    400124: Vic R Finger2
+    400126: Vic R Finger21
+    400128: Vic R Finger22
+    400130: Vic R Finger2Nub
+    400132: Vic R Finger3
+    400134: Vic R Finger31
+    400136: Vic R Finger32
+    400138: Vic R Finger3Nub
+    400140: Vic R Finger4
+    400142: Vic R Finger41
+    400144: Vic R Finger42
+    400146: Vic R Finger4Nub
+    400148: Vic R Foot
+    400150: Vic R Forearm
+    400152: Vic R Hand
+    400154: Vic R Thigh
+    400156: Vic R Toe0
+    400158: Vic R Toe01
+    400160: Vic R Toe02
+    400162: Vic R Toe0Nub
+    400164: Vic R UpperArm
+    400166: Vic Spine
+    400168: Vic Spine1
+    400170: Vic Spine2
+    400172: Vic Spine3
+    400174: Vic_Head
+    4300000: Vic_Head
+    4300002: Vic Grusen knight Suit
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Vic Grusen knight Suit
+    13700002: Vic_Head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

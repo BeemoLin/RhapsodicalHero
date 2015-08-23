@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 06ede9fbdfdce6049853b3005e2ca306
+timeCreated: 1439889035
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Angus Bip01
+    100004: Angus Head
+    100006: Angus HeadNub
+    100008: Angus L Calf
+    100010: Angus L Clavicle
+    100012: Angus L Finger0
+    100014: Angus L Finger01
+    100016: Angus L Finger02
+    100018: Angus L Finger0Nub
+    100020: Angus L Finger1
+    100022: Angus L Finger11
+    100024: Angus L Finger12
+    100026: Angus L Finger1Nub
+    100028: Angus L Finger2
+    100030: Angus L Finger21
+    100032: Angus L Finger22
+    100034: Angus L Finger2Nub
+    100036: Angus L Finger3
+    100038: Angus L Finger31
+    100040: Angus L Finger32
+    100042: Angus L Finger3Nub
+    100044: Angus L Finger4
+    100046: Angus L Finger41
+    100048: Angus L Finger42
+    100050: Angus L Finger4Nub
+    100052: Angus L Foot
+    100054: Angus L Forearm
+    100056: Angus L Hand
+    100058: Angus L Thigh
+    100060: Angus L Toe0
+    100062: Angus L Toe01
+    100064: Angus L Toe02
+    100066: Angus L Toe0Nub
+    100068: Angus L UpperArm
+    100070: Angus Neck
+    100072: Angus Pelvis
+    100074: Angus R Calf
+    100076: Angus R Clavicle
+    100078: Angus R Finger0
+    100080: Angus R Finger01
+    100082: Angus R Finger02
+    100084: Angus R Finger0Nub
+    100086: Angus R Finger1
+    100088: Angus R Finger11
+    100090: Angus R Finger12
+    100092: Angus R Finger1Nub
+    100094: Angus R Finger2
+    100096: Angus R Finger21
+    100098: Angus R Finger22
+    100100: Angus R Finger2Nub
+    100102: Angus R Finger3
+    100104: Angus R Finger31
+    100106: Angus R Finger32
+    100108: Angus R Finger3Nub
+    100110: Angus R Finger4
+    100112: Angus R Finger41
+    100114: Angus R Finger42
+    100116: Angus R Finger4Nub
+    100118: Angus R Foot
+    100120: Angus R Forearm
+    100122: Angus R Hand
+    100124: Angus R Thigh
+    100126: Angus R Toe0
+    100128: Angus R Toe01
+    100130: Angus R Toe02
+    100132: Angus R Toe0Nub
+    100134: Angus R UpperArm
+    100136: Angus Spine
+    100138: Angus Spine1
+    100140: Angus Spine2
+    100142: Angus Spine3
+    100144: Angus_Bip01 Footsteps
+    100146: Angus_boby001
+    100148: Angus_head001
+    100150: Angus_Iron_Gauntlets01
+    100152: Angus_Iron_Gauntlets02
+    400000: //RootNode
+    400002: Angus Bip01
+    400004: Angus Head
+    400006: Angus HeadNub
+    400008: Angus L Calf
+    400010: Angus L Clavicle
+    400012: Angus L Finger0
+    400014: Angus L Finger01
+    400016: Angus L Finger02
+    400018: Angus L Finger0Nub
+    400020: Angus L Finger1
+    400022: Angus L Finger11
+    400024: Angus L Finger12
+    400026: Angus L Finger1Nub
+    400028: Angus L Finger2
+    400030: Angus L Finger21
+    400032: Angus L Finger22
+    400034: Angus L Finger2Nub
+    400036: Angus L Finger3
+    400038: Angus L Finger31
+    400040: Angus L Finger32
+    400042: Angus L Finger3Nub
+    400044: Angus L Finger4
+    400046: Angus L Finger41
+    400048: Angus L Finger42
+    400050: Angus L Finger4Nub
+    400052: Angus L Foot
+    400054: Angus L Forearm
+    400056: Angus L Hand
+    400058: Angus L Thigh
+    400060: Angus L Toe0
+    400062: Angus L Toe01
+    400064: Angus L Toe02
+    400066: Angus L Toe0Nub
+    400068: Angus L UpperArm
+    400070: Angus Neck
+    400072: Angus Pelvis
+    400074: Angus R Calf
+    400076: Angus R Clavicle
+    400078: Angus R Finger0
+    400080: Angus R Finger01
+    400082: Angus R Finger02
+    400084: Angus R Finger0Nub
+    400086: Angus R Finger1
+    400088: Angus R Finger11
+    400090: Angus R Finger12
+    400092: Angus R Finger1Nub
+    400094: Angus R Finger2
+    400096: Angus R Finger21
+    400098: Angus R Finger22
+    400100: Angus R Finger2Nub
+    400102: Angus R Finger3
+    400104: Angus R Finger31
+    400106: Angus R Finger32
+    400108: Angus R Finger3Nub
+    400110: Angus R Finger4
+    400112: Angus R Finger41
+    400114: Angus R Finger42
+    400116: Angus R Finger4Nub
+    400118: Angus R Foot
+    400120: Angus R Forearm
+    400122: Angus R Hand
+    400124: Angus R Thigh
+    400126: Angus R Toe0
+    400128: Angus R Toe01
+    400130: Angus R Toe02
+    400132: Angus R Toe0Nub
+    400134: Angus R UpperArm
+    400136: Angus Spine
+    400138: Angus Spine1
+    400140: Angus Spine2
+    400142: Angus Spine3
+    400144: Angus_Bip01 Footsteps
+    400146: Angus_boby001
+    400148: Angus_head001
+    400150: Angus_Iron_Gauntlets01
+    400152: Angus_Iron_Gauntlets02
+    2300000: Angus_Iron_Gauntlets01
+    2300002: Angus_Iron_Gauntlets02
+    3300000: Angus_Iron_Gauntlets01
+    3300002: Angus_Iron_Gauntlets02
+    4300000: Angus_Iron_Gauntlets01
+    4300002: Angus_Iron_Gauntlets02
+    4300004: Angus_head001
+    4300006: Angus_boby001
+    9500000: //RootNode
+    13700000: Angus_boby001
+    13700002: Angus_head001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Angus Bip01
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
