@@ -1,7 +1,17 @@
 fileFormatVersion: 2
-guid: ec954396db59d0f4a95c54d682e80e20
-timeCreated: 1439960158
-licenseType: Free
+guid: c1fe7846fb5730e438a7649ac496b09e
+labels:
+- Health
+- HealthBar
+- Enemy
+- Npc
+- DamageBar
+- HealthBars
+- Bar
+- Bars
+- RPG
+timeCreated: 1434257954
+licenseType: Store
 MonoImporter:
   serializedVersion: 2
   defaultReferences: []

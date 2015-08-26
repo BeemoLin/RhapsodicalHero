@@ -22,18 +22,13 @@ public class ATKsword_V2 : MonoBehaviour
 
 	void Update()
 	{
-		// 接技能判斷
-		attackCheck ();
-
-		//空白鍵攻擊
-		if (Input.GetKeyDown(KeyCode.Space))
-		{
-			//attack();
-		}
 		if (Input.GetButton("Fire2"))
 		{
 			attack();
 		}
+		
+		// 接技能判斷
+		attackCheck ();
 	}
 
 	void attackCheck() {
@@ -71,18 +66,23 @@ public class ATKsword_V2 : MonoBehaviour
 	void attack()
 	{
 		//第一擊不需要延遲
-		if (hitCount == 0 || hitCount > 3) {
+		if (hitCount == 0) {
+			sTime = skillTime;
+			tTime = skillTime;
+			hitCount = 1;
+			anim.SetInteger ("ActionID", hitCount);
+		} else if (hitCount > 3 && tTime > 0 && sTime < (skillTime - changeTime)) {
 			sTime = skillTime;
 			tTime = skillTime;
 			hitCount = 1;
 			anim.SetInteger ("ActionID", hitCount);
 		}
-
 		// 攻擊間格時間 changeTime
-		if(tTime > 0 && sTime < (skillTime - changeTime)) {
+		if (tTime > 0 && sTime < (skillTime - changeTime)) {
 			hitCount += 1;
 			sTime = skillTime;
 			anim.SetInteger ("ActionID", hitCount);
+			Debug.Log ("hitCount:" + hitCount);
 		}
 	}
 }
