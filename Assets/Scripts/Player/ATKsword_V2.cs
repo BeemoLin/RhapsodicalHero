@@ -36,7 +36,7 @@ public class ATKsword_V2 : MonoBehaviour
 		animStateInfo = anim.GetCurrentAnimatorStateInfo(0);
 		
 		// 連技計時器
-		if (anim.GetInteger ("ActionID") == 0 && tTime > 0) {
+		if (anim.GetInteger ("ActionID") == 0 && tTime > -1) {
 			tTime -= Time.deltaTime;
 			sTime -= Time.deltaTime;
 		}
@@ -65,6 +65,7 @@ public class ATKsword_V2 : MonoBehaviour
 
 	void attack()
 	{
+		Debug.Log ("tTime:" + tTime);
 		//第一擊不需要延遲
 		if (hitCount == 0) {
 			sTime = skillTime;
