@@ -791,6 +791,19 @@ CanvasRenderer:
 GameObject:
   m_PrefabParentObject: {fileID: 158586, guid: 4b715b472d3dac14fa5d1a784a211dea, type: 2}
   m_PrefabInternal: {fileID: 1521665633}
+--- !u!114 &1564633470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1564633469}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c353fe622b5443988f1ec72828dd8ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainMenuSceneName: V1
+  pauseMenuFont: {fileID: 12800000, guid: 43bce127d27b74a66a29b68d0de90ddb, type: 3}
 --- !u!1 &1756421845
 GameObject:
   m_ObjectHideFlags: 0
