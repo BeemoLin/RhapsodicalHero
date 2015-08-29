@@ -562,7 +562,7 @@ SphereCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 680936106}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: bba6b81ca337a48f8b9de6117a8c14a2, type: 2}
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
@@ -577,7 +577,7 @@ Rigidbody:
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
-  m_AngularDrag: .0500000007
+  m_AngularDrag: .5
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
@@ -840,7 +840,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1215781792}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: .0140000004}
+  m_LocalPosition: {x: 0, y: 0, z: -.0599999987}
   m_LocalScale: {x: .00100000005, y: .00100000005, z: .00100000005}
   m_Children:
   - {fileID: 1607015277}
@@ -848,7 +848,7 @@ RectTransform:
   m_RootOrder: 2
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: .143999994, y: 1.41299999}
+  m_AnchoredPosition: {x: .143999994, y: 2.0769999}
   m_SizeDelta: {x: 1093, y: 615}
   m_Pivot: {x: .5, y: .5}
 --- !u!114 &1215781794
@@ -1040,7 +1040,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1225213496}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: fbdba207283514d83bb11325dc747298, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: .5
