@@ -792,15 +792,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 69.2699966
+      value: 97.4800034
       objectReference: {fileID: 0}
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -5.30000019
+      value: 44.0200005
       objectReference: {fileID: 0}
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 32.9599991
+      value: 60.2400017
       objectReference: {fileID: 0}
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_LocalRotation.x
@@ -821,6 +821,50 @@ Prefab:
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_RootOrder
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 1.80085802
+      objectReference: {fileID: 0}
+    - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 1.80085778
+      objectReference: {fileID: 0}
+    - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 1.80085778
+      objectReference: {fileID: 0}
+    - target: {fileID: 10800932, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
+      propertyPath: m_Shadows.m_Bias
+      value: .0299999993
+      objectReference: {fileID: 0}
+    - target: {fileID: 10800932, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
+      propertyPath: m_Intensity
+      value: 1.60000002
+      objectReference: {fileID: 0}
+    - target: {fileID: 10800932, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
+      propertyPath: m_BounceIntensity
+      value: 1.10000002
+      objectReference: {fileID: 0}
+    - target: {fileID: 10800932, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
+      propertyPath: m_Color.r
+      value: .977941155
+      objectReference: {fileID: 0}
+    - target: {fileID: 10800932, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
+      propertyPath: m_Color.g
+      value: .947073579
+      objectReference: {fileID: 0}
+    - target: {fileID: 10800932, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
+      propertyPath: m_Color.b
+      value: .86288923
+      objectReference: {fileID: 0}
+    - target: {fileID: 10800932, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
+      propertyPath: m_DrawHalo
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 10800932, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
+      propertyPath: m_CookieSize
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
@@ -951,6 +995,8 @@ MonoBehaviour:
   clickEnabled: 0
   ChangeToScene: V2
   TP: {x: 0, y: .119999997, z: 0}
+  player: {fileID: 0}
+  cam: {fileID: 0}
 --- !u!114 &2116091144
 MonoBehaviour:
   m_ObjectHideFlags: 0

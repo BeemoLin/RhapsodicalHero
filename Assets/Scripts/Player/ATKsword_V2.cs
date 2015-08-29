@@ -65,7 +65,6 @@ public class ATKsword_V2 : MonoBehaviour
 
 	void attack()
 	{
-		Debug.Log ("tTime:" + tTime);
 		//第一擊不需要延遲
 		if (hitCount == 0) {
 			sTime = skillTime;
@@ -83,7 +82,6 @@ public class ATKsword_V2 : MonoBehaviour
 			hitCount += 1;
 			sTime = skillTime;
 			anim.SetInteger ("ActionID", hitCount);
-			Debug.Log ("hitCount:" + hitCount);
 		}
 	}
 }
