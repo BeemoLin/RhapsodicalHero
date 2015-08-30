@@ -7,7 +7,25 @@ AnimatorController:
   m_PrefabInternal: {fileID: 0}
   m_Name: Daemonic Private_Animator
   serializedVersion: 5
-  m_AnimatorParameters: []
+  m_AnimatorParameters:
+  - m_Name: IsAttack
+    m_Type: 4
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
+  - m_Name: Dead
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
+  - m_Name: PlayerDead
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -27,7 +45,10 @@ AnimatorStateTransition:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: 
-  m_Conditions: []
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: IsAttack
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 110276032}
   m_Solo: 0
@@ -48,7 +69,10 @@ AnimatorStateTransition:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: 
-  m_Conditions: []
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: PlayerDead
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 110219576}
   m_Solo: 0
@@ -187,10 +211,10 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 110219576}
-    m_Position: {x: 360, y: 60, z: 0}
+    m_Position: {x: 108, y: 84, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110276032}
-    m_Position: {x: 612, y: 60, z: 0}
+    m_Position: {x: 336, y: 84, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110269144}
     m_Position: {x: 108, y: 0, z: 0}
@@ -203,8 +227,8 @@ AnimatorStateMachine:
       first: {fileID: 110756006}
       second: []
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 852, y: 60, z: 0}
-  m_EntryPosition: {x: 50, y: 120, z: 0}
-  m_ExitPosition: {x: 276, y: 192, z: 0}
+  m_AnyStatePosition: {x: 360, y: 0, z: 0}
+  m_EntryPosition: {x: -84, y: 48, z: 0}
+  m_ExitPosition: {x: 360, y: -48, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: 110219576}
+  m_DefaultState: {fileID: 110269144}

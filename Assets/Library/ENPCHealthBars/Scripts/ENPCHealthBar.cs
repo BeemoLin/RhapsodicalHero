@@ -396,6 +396,8 @@ namespace SnazzlebotTools.ENPCHealthBars
             InitNameText();
             InitLevelText();
             InitValueText();
+
+			FaceCamera = Camera.main;
         }
 
         void Reset()

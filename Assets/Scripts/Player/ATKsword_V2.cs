@@ -36,7 +36,7 @@ public class ATKsword_V2 : MonoBehaviour
 		animStateInfo = anim.GetCurrentAnimatorStateInfo(0);
 		
 		// 連技計時器
-		if (anim.GetInteger ("ActionID") == 0 && tTime > -1) {
+		if ((anim.GetInteger ("ActionID") == 0 || anim.GetInteger ("ActionID") == 4) && tTime > -1) {
 			tTime -= Time.deltaTime;
 			sTime -= Time.deltaTime;
 		}

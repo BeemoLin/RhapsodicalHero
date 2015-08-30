@@ -10,6 +10,7 @@ public class LevelManager : MonoBehaviour {
 	public Vector3 TP;
 	public GameObject player;
 	public GameObject cam;
+	public GameObject hud;
 
 	void Start ()
 	{
@@ -47,11 +48,10 @@ public class LevelManager : MonoBehaviour {
 	}
 
 	void ChangeTo(string Scene) {
-		//Object player = GameObject.Find("Angus");
-		//Object cam = GameObject.Find("Main Camera");
 		Application.LoadLevel(Scene);
 		DontDestroyOnLoad(player);
 		DontDestroyOnLoad(cam);
+		DontDestroyOnLoad(hud);
 
 		player.transform.position = TP;
 	}
