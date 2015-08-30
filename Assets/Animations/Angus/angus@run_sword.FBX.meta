@@ -1,0 +1,906 @@
+fileFormatVersion: 2
+guid: 72af4a9ebfffc3f4183942120ef63de9
+timeCreated: 1439996511
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Angus Bip01
+    100002: Angus Head
+    100004: Angus HeadNub
+    100006: Angus L Calf
+    100008: Angus L Clavicle
+    100010: Angus L Finger0
+    100012: Angus L Finger01
+    100014: Angus L Finger02
+    100016: Angus L Finger0Nub
+    100018: Angus L Finger1
+    100020: Angus L Finger11
+    100022: Angus L Finger12
+    100024: Angus L Finger1Nub
+    100026: Angus L Finger2
+    100028: Angus L Finger21
+    100030: Angus L Finger22
+    100032: Angus L Finger2Nub
+    100034: Angus L Finger3
+    100036: Angus L Finger31
+    100038: Angus L Finger32
+    100040: Angus L Finger3Nub
+    100042: Angus L Finger4
+    100044: Angus L Finger41
+    100046: Angus L Finger42
+    100048: Angus L Finger4Nub
+    100050: Angus L Foot
+    100052: Angus L Forearm
+    100054: Angus L Hand
+    100056: Angus L Thigh
+    100058: Angus L Toe0
+    100060: Angus L Toe01
+    100062: Angus L Toe02
+    100064: Angus L Toe0Nub
+    100066: Angus L UpperArm
+    100068: Angus Neck
+    100070: Angus Pelvis
+    100072: Angus R Calf
+    100074: Angus R Clavicle
+    100076: Angus R Finger0
+    100078: Angus R Finger01
+    100080: Angus R Finger02
+    100082: Angus R Finger0Nub
+    100084: Angus R Finger1
+    100086: Angus R Finger11
+    100088: Angus R Finger12
+    100090: Angus R Finger1Nub
+    100092: Angus R Finger2
+    100094: Angus R Finger21
+    100096: Angus R Finger22
+    100098: Angus R Finger2Nub
+    100100: Angus R Finger3
+    100102: Angus R Finger31
+    100104: Angus R Finger32
+    100106: Angus R Finger3Nub
+    100108: Angus R Finger4
+    100110: Angus R Finger41
+    100112: Angus R Finger42
+    100114: Angus R Finger4Nub
+    100116: Angus R Foot
+    100118: Angus R Forearm
+    100120: Angus R Hand
+    100122: Angus R Thigh
+    100124: Angus R Toe0
+    100126: Angus R Toe01
+    100128: Angus R Toe02
+    100130: Angus R Toe0Nub
+    100132: Angus R UpperArm
+    100134: Angus Spine
+    100136: Angus Spine1
+    100138: Angus Spine2
+    100140: Angus Spine3
+    100142: //RootNode
+    100144: Angus_Bip01 Footsteps
+    100146: Angus_boby001
+    100148: Angus_head001
+    100150: Angus_Iron_Gauntlets01
+    100152: Angus_Iron_Gauntlets02
+    400000: Angus Bip01
+    400002: Angus Head
+    400004: Angus HeadNub
+    400006: Angus L Calf
+    400008: Angus L Clavicle
+    400010: Angus L Finger0
+    400012: Angus L Finger01
+    400014: Angus L Finger02
+    400016: Angus L Finger0Nub
+    400018: Angus L Finger1
+    400020: Angus L Finger11
+    400022: Angus L Finger12
+    400024: Angus L Finger1Nub
+    400026: Angus L Finger2
+    400028: Angus L Finger21
+    400030: Angus L Finger22
+    400032: Angus L Finger2Nub
+    400034: Angus L Finger3
+    400036: Angus L Finger31
+    400038: Angus L Finger32
+    400040: Angus L Finger3Nub
+    400042: Angus L Finger4
+    400044: Angus L Finger41
+    400046: Angus L Finger42
+    400048: Angus L Finger4Nub
+    400050: Angus L Foot
+    400052: Angus L Forearm
+    400054: Angus L Hand
+    400056: Angus L Thigh
+    400058: Angus L Toe0
+    400060: Angus L Toe01
+    400062: Angus L Toe02
+    400064: Angus L Toe0Nub
+    400066: Angus L UpperArm
+    400068: Angus Neck
+    400070: Angus Pelvis
+    400072: Angus R Calf
+    400074: Angus R Clavicle
+    400076: Angus R Finger0
+    400078: Angus R Finger01
+    400080: Angus R Finger02
+    400082: Angus R Finger0Nub
+    400084: Angus R Finger1
+    400086: Angus R Finger11
+    400088: Angus R Finger12
+    400090: Angus R Finger1Nub
+    400092: Angus R Finger2
+    400094: Angus R Finger21
+    400096: Angus R Finger22
+    400098: Angus R Finger2Nub
+    400100: Angus R Finger3
+    400102: Angus R Finger31
+    400104: Angus R Finger32
+    400106: Angus R Finger3Nub
+    400108: Angus R Finger4
+    400110: Angus R Finger41
+    400112: Angus R Finger42
+    400114: Angus R Finger4Nub
+    400116: Angus R Foot
+    400118: Angus R Forearm
+    400120: Angus R Hand
+    400122: Angus R Thigh
+    400124: Angus R Toe0
+    400126: Angus R Toe01
+    400128: Angus R Toe02
+    400130: Angus R Toe0Nub
+    400132: Angus R UpperArm
+    400134: Angus Spine
+    400136: Angus Spine1
+    400138: Angus Spine2
+    400140: Angus Spine3
+    400142: //RootNode
+    400144: Angus_Bip01 Footsteps
+    400146: Angus_boby001
+    400148: Angus_head001
+    400150: Angus_Iron_Gauntlets01
+    400152: Angus_Iron_Gauntlets02
+    2300000: Angus_Iron_Gauntlets01
+    2300002: Angus_Iron_Gauntlets02
+    3300000: Angus_Iron_Gauntlets01
+    3300002: Angus_Iron_Gauntlets02
+    4300000: Angus_Iron_Gauntlets01
+    4300002: Angus_Iron_Gauntlets02
+    4300004: Angus_head001
+    4300006: Angus_boby001
+    7400000: run_sword
+    9500000: //RootNode
+    13700000: Angus_boby001
+    13700002: Angus_head001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run_sword
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Angus Bip01
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus L Thigh
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus L Thigh/Angus L Calf
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus L Thigh/Angus L Calf/Angus
+          L Foot
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus L Thigh/Angus L Calf/Angus
+          L Foot/Angus L Toe0
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus L Thigh/Angus L Calf/Angus
+          L Foot/Angus L Toe0/Angus L Toe01
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus L Thigh/Angus L Calf/Angus
+          L Foot/Angus L Toe0/Angus L Toe01/Angus L Toe02
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus L Thigh/Angus L Calf/Angus
+          L Foot/Angus L Toe0/Angus L Toe01/Angus L Toe02/Angus L Toe0Nub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus R Thigh
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus R Thigh/Angus R Calf
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus R Thigh/Angus R Calf/Angus
+          R Foot
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus R Thigh/Angus R Calf/Angus
+          R Foot/Angus R Toe0
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus R Thigh/Angus R Calf/Angus
+          R Foot/Angus R Toe0/Angus R Toe01
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus R Thigh/Angus R Calf/Angus
+          R Foot/Angus R Toe0/Angus R Toe01/Angus R Toe02
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus R Thigh/Angus R Calf/Angus
+          R Foot/Angus R Toe0/Angus R Toe01/Angus R Toe02/Angus R Toe0Nub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus Head
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus Head/Angus HeadNub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger0
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger0/Angus L Finger01
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger0/Angus L Finger01/Angus L Finger02
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger0/Angus L Finger01/Angus L Finger02/Angus L Finger0Nub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger1
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger1/Angus L Finger11
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger1/Angus L Finger11/Angus L Finger12
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger1/Angus L Finger11/Angus L Finger12/Angus L Finger1Nub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger2
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger2/Angus L Finger21
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger2/Angus L Finger21/Angus L Finger22
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger2/Angus L Finger21/Angus L Finger22/Angus L Finger2Nub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger3
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger3/Angus L Finger31
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger3/Angus L Finger31/Angus L Finger32
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger3/Angus L Finger31/Angus L Finger32/Angus L Finger3Nub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger4
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger4/Angus L Finger41
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger4/Angus L Finger41/Angus L Finger42
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus
+          L Hand/Angus L Finger4/Angus L Finger41/Angus L Finger42/Angus L Finger4Nub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus L Clavicle/Angus L UpperArm/Angus L Forearm/Angus_Iron_Gauntlets01
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger0
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger0/Angus R Finger01
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger0/Angus R Finger01/Angus R Finger02
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger0/Angus R Finger01/Angus R Finger02/Angus R Finger0Nub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger1
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger1/Angus R Finger11
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger1/Angus R Finger11/Angus R Finger12
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger1/Angus R Finger11/Angus R Finger12/Angus R Finger1Nub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger2
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger2/Angus R Finger21
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger2/Angus R Finger21/Angus R Finger22
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger2/Angus R Finger21/Angus R Finger22/Angus R Finger2Nub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger3
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger3/Angus R Finger31
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger3/Angus R Finger31/Angus R Finger32
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger3/Angus R Finger31/Angus R Finger32/Angus R Finger3Nub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger4
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger4/Angus R Finger41
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger4/Angus R Finger41/Angus R Finger42
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus
+          R Hand/Angus R Finger4/Angus R Finger41/Angus R Finger42/Angus R Finger4Nub
+        weight: 1
+      - path: Angus Bip01/Angus Pelvis/Angus Spine/Angus Spine1/Angus Spine2/Angus
+          Spine3/Angus Neck/Angus R Clavicle/Angus R UpperArm/Angus R Forearm/Angus_Iron_Gauntlets02
+        weight: 1
+      - path: Angus Bip01/Angus_Bip01 Footsteps
+        weight: 1
+      - path: Angus_boby001
+        weight: 1
+      - path: Angus_head001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton:
+    - name: angus@run_sword(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus Bip01
+      position: {x: -.0343222395, y: .744071305, z: -.0328421593}
+      rotation: {x: -.500000358, y: .499999672, z: .499999672, w: .500000358}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Angus Pelvis
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: .623286664, y: -.333936721, z: -.623286664, w: -.333936721}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Angus Spine
+      position: {x: -.0865314454, y: -4.64886398e-05, z: -2.04451389e-05}
+      rotation: {x: .211028054, y: .102979727, z: -.269777775, w: .933853507}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Angus L Thigh
+      position: {x: .049042128, y: .0728700608, z: .0737091526}
+      rotation: {x: -.495615989, y: .855851114, z: .102596447, w: .106572889}
+      scale: {x: .99999994, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Angus L Calf
+      position: {x: -.247812942, y: 0, z: 0}
+      rotation: {x: 4.03958866e-10, y: -2.31641359e-10, z: .867495, w: .497446001}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Angus L Foot
+      position: {x: -.376079023, y: 4.7683713e-08, z: -2.38418565e-08}
+      rotation: {x: -.0568642169, y: -.0647400618, z: .116330534, w: .989465714}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus L Toe0
+      position: {x: -.0965443626, y: .103487343, z: -2.38418565e-08}
+      rotation: {x: -2.10734257e-08, y: 1.05367137e-08, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus L Toe01
+      position: {x: -.0506866202, y: 0, z: 0}
+      rotation: {x: -3.72529074e-09, y: -7.4505806e-09, z: -2.77555789e-17, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Angus L Toe02
+      position: {x: -.0506865606, y: -4.7683713e-08, z: 0}
+      rotation: {x: -3.72529074e-09, y: -7.4505806e-09, z: -2.77555789e-17, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Angus L Toe0Nub
+      position: {x: -.0506865829, y: 0, z: 0}
+      rotation: {x: -7.4505806e-09, y: 3.72529074e-09, z: 1, w: 8.89879182e-17}
+      scale: {x: -1, y: -.99999994, z: -1}
+      transformModified: 1
+    - name: Angus R Thigh
+      position: {x: .0951038301, y: .0219373703, z: -.0601335466}
+      rotation: {x: -.165850356, y: .981300473, z: .0231001433, w: -.094917886}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus R Calf
+      position: {x: -.247812986, y: 2.38418565e-08, z: -1.19209282e-08}
+      rotation: {x: -1.35105616e-09, y: 7.3270594e-09, z: .181335703, w: .983421266}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus R Foot
+      position: {x: -.376078963, y: -7.15255695e-08, z: 1.19209282e-08}
+      rotation: {x: .0287455004, y: -.0898054689, z: .0355386697, w: .994909883}
+      scale: {x: 1.00000024, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: Angus R Toe0
+      position: {x: -.0965443254, y: .103487328, z: 0}
+      rotation: {x: 1.75768111e-08, y: -1.66551004e-08, z: .914094925, w: -.405500233}
+      scale: {x: .999999821, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Angus R Toe01
+      position: {x: -.0506865755, y: 0, z: -2.38418565e-08}
+      rotation: {x: 1.51788304e-17, y: -8.14907253e-09, z: 1.86264515e-09, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Angus R Toe02
+      position: {x: -.0506865755, y: 5.96046412e-09, z: 2.38418565e-08}
+      rotation: {x: 1.51788304e-17, y: -8.14907253e-09, z: 1.86264515e-09, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Angus R Toe0Nub
+      position: {x: -.0506866053, y: -5.96046412e-09, z: 0}
+      rotation: {x: 1.51788304e-17, y: -8.14907253e-09, z: 1.86264515e-09, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Angus Spine1
+      position: {x: -.0763121098, y: -6.0749051e-05, z: 2.98023206e-09}
+      rotation: {x: 5.5511138e-17, y: 3.72528985e-09, z: -1.49011594e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus Spine2
+      position: {x: -.0763120651, y: -6.07967377e-05, z: 2.98023206e-09}
+      rotation: {x: 5.5511138e-17, y: 3.72528985e-09, z: -1.49011594e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus Spine3
+      position: {x: -.0763121545, y: -6.0749051e-05, z: 0}
+      rotation: {x: 5.5511138e-17, y: 3.72528985e-09, z: -1.49011594e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus Neck
+      position: {x: -.104188442, y: -.0171420574, z: 1.19209282e-08}
+      rotation: {x: 5.5511138e-17, y: 3.72528985e-09, z: -1.49011594e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus Head
+      position: {x: -.0949425697, y: 0, z: -5.96046412e-09}
+      rotation: {x: .0703367144, y: -.0112198293, z: .157902688, w: .984882534}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Angus HeadNub
+      position: {x: -.26568374, y: 0, z: 0}
+      rotation: {x: -7.10542736e-14, y: 2.84217094e-14, z: 2.01948392e-27, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus L Clavicle
+      position: {x: .0278763771, y: .0171420574, z: .0263255239}
+      rotation: {x: .707047939, y: -.00912207551, z: -.707040489, w: .00968501624}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Angus L UpperArm
+      position: {x: -.121305704, y: 0, z: 0}
+      rotation: {x: -.0831659585, y: -.394330144, z: .0986877605, w: .909861445}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Angus L Forearm
+      position: {x: -.248088598, y: 0, z: 4.7683713e-08}
+      rotation: {x: 9.2740855e-09, y: -1.16634418e-08, z: .622373462, w: .782720447}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus L Hand
+      position: {x: -.211706072, y: 0, z: -4.7683713e-08}
+      rotation: {x: -.701550484, y: -.00920890924, z: -.086204052, w: .707326651}
+      scale: {x: 1.00000024, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: Angus L Finger0
+      position: {x: -.0237450115, y: .00267009716, z: -.0565855019}
+      rotation: {x: .222749218, y: -.477664232, z: -.345445871, w: .776457846}
+      scale: {x: .99999994, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Angus L Finger01
+      position: {x: -.0370192043, y: 0, z: 0}
+      rotation: {x: -.0194712449, y: .0593172386, z: -.522099376, w: .850596607}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Angus L Finger02
+      position: {x: -.0370192528, y: 1.19209282e-08, z: 7.15255695e-08}
+      rotation: {x: -.0159615837, y: .0603563599, z: -.471353829, w: .879731774}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Angus L Finger0Nub
+      position: {x: -.0370192043, y: 0, z: -2.38418565e-08}
+      rotation: {x: 0, y: 0, z: 7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus L Finger1
+      position: {x: -.100494094, y: .00405945769, z: -.0461441986}
+      rotation: {x: .0962045342, y: -.0967871174, z: -.700363398, w: .700619757}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Angus L Finger11
+      position: {x: -.0517712124, y: 2.38418565e-08, z: 0}
+      rotation: {x: 1.93275138e-08, y: 2.26853576e-08, z: -.648523867, w: .761194408}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Angus L Finger12
+      position: {x: -.0517713055, y: -4.7683713e-08, z: 0}
+      rotation: {x: 0, y: 0, z: -.689380407, w: .724399507}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Angus L Finger1Nub
+      position: {x: -.0517713055, y: 2.38418565e-08, z: 4.7683713e-08}
+      rotation: {x: 1.49011594e-08, y: -2.98023188e-08, z: 7.45058015e-09, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Angus L Finger2
+      position: {x: -.100122429, y: .00215101242, z: -.00928702392}
+      rotation: {x: .0327467918, y: -.0335086659, z: -.677758098, w: .733790696}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Angus L Finger21
+      position: {x: -.0540348515, y: -2.38418565e-08, z: 0}
+      rotation: {x: 9.73267955e-09, y: 1.12835972e-08, z: -.653149068, w: .757229388}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Angus L Finger22
+      position: {x: -.0540348962, y: 0, z: -4.7683713e-08}
+      rotation: {x: 1.02725677e-08, y: 1.07943938e-08, z: -.689380407, w: .724399507}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Angus L Finger2Nub
+      position: {x: -.0540348962, y: 0, z: 0}
+      rotation: {x: -2.22044605e-16, y: -1.49011612e-08, z: -1.49011612e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus L Finger3
+      position: {x: -.102950335, y: .0144294258, z: .0303683039}
+      rotation: {x: -.0148991216, y: .0232700724, z: -.696724534, w: .716806412}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Angus L Finger31
+      position: {x: -.0441288501, y: -4.7683713e-08, z: 4.7683713e-08}
+      rotation: {x: .000379707228, y: -.000628510781, z: -.677585006, w: .735444069}
+      scale: {x: .99999994, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Angus L Finger32
+      position: {x: -.0441288203, y: -9.5367426e-08, z: -2.38418565e-08}
+      rotation: {x: 3.02904191e-08, y: 3.28769261e-08, z: -.677585185, w: .735444307}
+      scale: {x: .99999994, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Angus L Finger3Nub
+      position: {x: -.0441287979, y: 2.38418565e-08, z: 0}
+      rotation: {x: -1.49011612e-08, y: -2.22044605e-16, z: 1.49011612e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus L Finger4
+      position: {x: -.0887174085, y: .0128059378, z: .0552062988}
+      rotation: {x: -.0329595022, y: .129454374, z: -.70342958, w: .698098898}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus L Finger41
+      position: {x: -.0343622193, y: 0, z: 2.38418565e-08}
+      rotation: {x: 1.63355018e-08, y: -3.27218364e-09, z: -.614176691, w: .789168537}
+      scale: {x: 1, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Angus L Finger42
+      position: {x: -.0343621746, y: 0, z: -1.19209282e-08}
+      rotation: {x: -8.4873486e-09, y: 2.54874504e-08, z: -.614176691, w: .789168537}
+      scale: {x: .99999994, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: Angus L Finger4Nub
+      position: {x: -.0343622193, y: -2.38418565e-08, z: -1.19209282e-08}
+      rotation: {x: 0, y: 0, z: 1.49011612e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus_Iron_Gauntlets01
+      position: {x: -.138519093, y: -.00443944894, z: .0359081253}
+      rotation: {x: .974731207, y: .120267607, z: -.143031985, w: .122379117}
+      scale: {x: -.228995413, y: -.228996217, z: -.228995711}
+      transformModified: 1
+    - name: Angus R Clavicle
+      position: {x: .0278762821, y: .0171421524, z: -.0263255425}
+      rotation: {x: .707047939, y: -.00912425108, z: .707040489, w: -.00968677737}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Angus R UpperArm
+      position: {x: -.121305726, y: -4.7683713e-08, z: 0}
+      rotation: {x: -.107285336, y: .550490916, z: .0325793512, w: .827277601}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Angus R Forearm
+      position: {x: -.248088598, y: 4.7683713e-08, z: 0}
+      rotation: {x: -1.77871995e-09, y: -5.52813018e-10, z: .296789229, w: .954943001}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus R Hand
+      position: {x: -.211706072, y: -2.38418565e-08, z: -4.7683713e-08}
+      rotation: {x: .790799677, y: .0324427672, z: -.0602463186, w: .60823822}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Angus R Finger0
+      position: {x: -.0237450115, y: .00267009716, z: .0565855131}
+      rotation: {x: -.222749233, y: .477664202, z: -.345445901, w: .776457906}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus R Finger01
+      position: {x: -.0370192043, y: -1.19209282e-08, z: -4.7683713e-08}
+      rotation: {x: .0194712374, y: -.0593172126, z: -.522099376, w: .850596607}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus R Finger02
+      position: {x: -.0370192267, y: 4.7683713e-08, z: 0}
+      rotation: {x: .0159615781, y: -.0603563786, z: -.47135374, w: .879731774}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus R Finger0Nub
+      position: {x: -.0370192043, y: 0, z: 0}
+      rotation: {x: 1.49011612e-08, y: -1.49011594e-08, z: 1, w: -7.45058326e-09}
+      scale: {x: -1, y: -1.00000012, z: -1}
+      transformModified: 1
+    - name: Angus R Finger1
+      position: {x: -.100494042, y: .00405950518, z: .0461441502}
+      rotation: {x: -.0962045416, y: .0967871025, z: -.700363398, w: .700619757}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Angus R Finger11
+      position: {x: -.0517712831, y: 0, z: 0}
+      rotation: {x: 1.41783507e-09, y: -1.20796984e-09, z: -.648523867, w: .761194408}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Angus R Finger12
+      position: {x: -.0517713055, y: -4.7683713e-08, z: 0}
+      rotation: {x: -5.39719736e-09, y: 5.13628517e-09, z: -.689380467, w: .724399447}
+      scale: {x: .999999821, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Angus R Finger1Nub
+      position: {x: -.0517713055, y: 4.7683713e-08, z: 0}
+      rotation: {x: 0, y: -0, z: 1, w: 6.12323426e-17}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: Angus R Finger2
+      position: {x: -.100122452, y: .00215105992, z: .00928705931}
+      rotation: {x: -.0327468216, y: .0335086547, z: -.677758098, w: .733790696}
+      scale: {x: .99999994, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Angus R Finger21
+      position: {x: -.0540348515, y: 4.7683713e-08, z: -5.96046412e-09}
+      rotation: {x: 1.37533274e-09, y: 3.73333808e-09, z: -.653149068, w: .757229328}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Angus R Finger22
+      position: {x: -.0540348515, y: 0, z: 5.96046412e-09}
+      rotation: {x: 1.34929912e-09, y: -1.28407107e-09, z: -.689380407, w: .724399507}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus R Finger2Nub
+      position: {x: -.0540348962, y: 0, z: -5.96046412e-09}
+      rotation: {x: -1.86264504e-09, y: -1.86264515e-09, z: 1, w: -2.98023259e-08}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: Angus R Finger3
+      position: {x: -.10099978, y: .0135271065, z: -.0204170831}
+      rotation: {x: .0148991244, y: -.0232700873, z: -.696724474, w: .716806471}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Angus R Finger31
+      position: {x: -.0441288203, y: 0, z: 0}
+      rotation: {x: -.000379704928, y: .000628518697, z: -.677585006, w: .735444129}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Angus R Finger32
+      position: {x: -.0441287495, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: -.677585185, w: .735444307}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus R Finger3Nub
+      position: {x: -.0441287979, y: -4.7683713e-08, z: 1.19209282e-08}
+      rotation: {x: 3.7252903e-09, y: 7.4505806e-09, z: 1, w: -1.49011585e-08}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: Angus R Finger4
+      position: {x: -.0921774358, y: .031725429, z: -.0528126135}
+      rotation: {x: .0329595171, y: -.129454374, z: -.70342958, w: .698098898}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Angus R Finger41
+      position: {x: -.0343621969, y: 0, z: 0}
+      rotation: {x: -1.38810599e-08, y: 5.41855361e-09, z: -.363633037, w: .931542277}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Angus R Finger42
+      position: {x: -.0343622193, y: 9.5367426e-08, z: 0}
+      rotation: {x: 1.23590853e-08, y: 1.11717853e-08, z: -.363633007, w: .931542277}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus R Finger4Nub
+      position: {x: -.0343621746, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 1, w: 7.45058415e-09}
+      scale: {x: -1, y: -1.00000012, z: -1.00000012}
+      transformModified: 1
+    - name: Angus_Iron_Gauntlets02
+      position: {x: -.147556975, y: -.0127398241, z: -.0386819839}
+      rotation: {x: -.0259844996, y: .99949497, z: -.0060387929, w: .0172686912}
+      scale: {x: .228995189, y: .228995383, z: .228995726}
+      transformModified: 1
+    - name: Angus_Bip01 Footsteps
+      position: {x: -0, y: 0, z: -.624948978}
+      rotation: {x: 0, y: 0, z: -.707106292, w: .707107246}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Angus_boby001
+      position: {x: -.0466662869, y: .0352954865, z: -.00573508721}
+      rotation: {x: -.707079887, y: .00617156923, z: -.0061695464, w: .707079828}
+      scale: {x: .228995413, y: .228995398, z: .228995427}
+      transformModified: 1
+    - name: Angus_head001
+      position: {x: -.0484912843, y: 1.38478565, z: -.0392748602}
+      rotation: {x: -.707079887, y: .00617156923, z: -.0061695464, w: .707079828}
+      scale: {x: .228995427, y: .228995383, z: .228995442}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Angus Bip01
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

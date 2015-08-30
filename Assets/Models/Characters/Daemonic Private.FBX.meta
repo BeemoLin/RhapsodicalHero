@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: ba565d6e87947bd449aa6a2dd0ac6e47
+timeCreated: 1440858404
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Daemonic Private Bip01 Footsteps
+    100004: Daemonic Private001 Bip01
+    100006: Daemonic Private001 Bone10
+    100008: Daemonic Private001 Bone11
+    100010: Daemonic Private001 Bone12
+    100012: Daemonic Private001 Bone13
+    100014: Daemonic Private001 Bone14
+    100016: Daemonic Private001 Bone15
+    100018: Daemonic Private001 Bone16
+    100020: Daemonic Private001 Bone17
+    100022: Daemonic Private001 Head
+    100024: Daemonic Private001 HeadNub
+    100026: Daemonic Private001 L Calf
+    100028: Daemonic Private001 L Clavicle
+    100030: Daemonic Private001 L Finger0
+    100032: Daemonic Private001 L Finger01
+    100034: Daemonic Private001 L Finger02
+    100036: Daemonic Private001 L Finger0Nub
+    100038: Daemonic Private001 L Finger1
+    100040: Daemonic Private001 L Finger11
+    100042: Daemonic Private001 L Finger12
+    100044: Daemonic Private001 L Finger1Nub
+    100046: Daemonic Private001 L Finger2
+    100048: Daemonic Private001 L Finger21
+    100050: Daemonic Private001 L Finger22
+    100052: Daemonic Private001 L Finger2Nub
+    100054: Daemonic Private001 L Finger3
+    100056: Daemonic Private001 L Finger31
+    100058: Daemonic Private001 L Finger32
+    100060: Daemonic Private001 L Finger3Nub
+    100062: Daemonic Private001 L Finger4
+    100064: Daemonic Private001 L Finger41
+    100066: Daemonic Private001 L Finger42
+    100068: Daemonic Private001 L Finger4Nub
+    100070: Daemonic Private001 L Foot
+    100072: Daemonic Private001 L Forearm
+    100074: Daemonic Private001 L Hand
+    100076: Daemonic Private001 L Thigh
+    100078: Daemonic Private001 L Toe0
+    100080: Daemonic Private001 L Toe01
+    100082: Daemonic Private001 L Toe02
+    100084: Daemonic Private001 L Toe0Nub
+    100086: Daemonic Private001 L UpperArm
+    100088: Daemonic Private001 Neck
+    100090: Daemonic Private001 Pelvis
+    100092: Daemonic Private001 R Calf
+    100094: Daemonic Private001 R Clavicle
+    100096: Daemonic Private001 R Finger0
+    100098: Daemonic Private001 R Finger01
+    100100: Daemonic Private001 R Finger02
+    100102: Daemonic Private001 R Finger0Nub
+    100104: Daemonic Private001 R Finger1
+    100106: Daemonic Private001 R Finger11
+    100108: Daemonic Private001 R Finger12
+    100110: Daemonic Private001 R Finger1Nub
+    100112: Daemonic Private001 R Finger2
+    100114: Daemonic Private001 R Finger21
+    100116: Daemonic Private001 R Finger22
+    100118: Daemonic Private001 R Finger2Nub
+    100120: Daemonic Private001 R Finger3
+    100122: Daemonic Private001 R Finger31
+    100124: Daemonic Private001 R Finger32
+    100126: Daemonic Private001 R Finger3Nub
+    100128: Daemonic Private001 R Finger4
+    100130: Daemonic Private001 R Finger41
+    100132: Daemonic Private001 R Finger42
+    100134: Daemonic Private001 R Finger4Nub
+    100136: Daemonic Private001 R Foot
+    100138: Daemonic Private001 R Forearm
+    100140: Daemonic Private001 R Hand
+    100142: Daemonic Private001 R Thigh
+    100144: Daemonic Private001 R Toe0
+    100146: Daemonic Private001 R Toe01
+    100148: Daemonic Private001 R Toe02
+    100150: Daemonic Private001 R Toe0Nub
+    100152: Daemonic Private001 R UpperArm
+    100154: Daemonic Private001 Spear
+    100156: Daemonic Private001 Spine
+    100158: Daemonic Private001 Spine1
+    100160: Daemonic Private001 Spine2
+    100162: Daemonic Private001 Spine3
+    100164: Daemonic Private001 suit
+    400000: //RootNode
+    400002: Daemonic Private Bip01 Footsteps
+    400004: Daemonic Private001 Bip01
+    400006: Daemonic Private001 Bone10
+    400008: Daemonic Private001 Bone11
+    400010: Daemonic Private001 Bone12
+    400012: Daemonic Private001 Bone13
+    400014: Daemonic Private001 Bone14
+    400016: Daemonic Private001 Bone15
+    400018: Daemonic Private001 Bone16
+    400020: Daemonic Private001 Bone17
+    400022: Daemonic Private001 Head
+    400024: Daemonic Private001 HeadNub
+    400026: Daemonic Private001 L Calf
+    400028: Daemonic Private001 L Clavicle
+    400030: Daemonic Private001 L Finger0
+    400032: Daemonic Private001 L Finger01
+    400034: Daemonic Private001 L Finger02
+    400036: Daemonic Private001 L Finger0Nub
+    400038: Daemonic Private001 L Finger1
+    400040: Daemonic Private001 L Finger11
+    400042: Daemonic Private001 L Finger12
+    400044: Daemonic Private001 L Finger1Nub
+    400046: Daemonic Private001 L Finger2
+    400048: Daemonic Private001 L Finger21
+    400050: Daemonic Private001 L Finger22
+    400052: Daemonic Private001 L Finger2Nub
+    400054: Daemonic Private001 L Finger3
+    400056: Daemonic Private001 L Finger31
+    400058: Daemonic Private001 L Finger32
+    400060: Daemonic Private001 L Finger3Nub
+    400062: Daemonic Private001 L Finger4
+    400064: Daemonic Private001 L Finger41
+    400066: Daemonic Private001 L Finger42
+    400068: Daemonic Private001 L Finger4Nub
+    400070: Daemonic Private001 L Foot
+    400072: Daemonic Private001 L Forearm
+    400074: Daemonic Private001 L Hand
+    400076: Daemonic Private001 L Thigh
+    400078: Daemonic Private001 L Toe0
+    400080: Daemonic Private001 L Toe01
+    400082: Daemonic Private001 L Toe02
+    400084: Daemonic Private001 L Toe0Nub
+    400086: Daemonic Private001 L UpperArm
+    400088: Daemonic Private001 Neck
+    400090: Daemonic Private001 Pelvis
+    400092: Daemonic Private001 R Calf
+    400094: Daemonic Private001 R Clavicle
+    400096: Daemonic Private001 R Finger0
+    400098: Daemonic Private001 R Finger01
+    400100: Daemonic Private001 R Finger02
+    400102: Daemonic Private001 R Finger0Nub
+    400104: Daemonic Private001 R Finger1
+    400106: Daemonic Private001 R Finger11
+    400108: Daemonic Private001 R Finger12
+    400110: Daemonic Private001 R Finger1Nub
+    400112: Daemonic Private001 R Finger2
+    400114: Daemonic Private001 R Finger21
+    400116: Daemonic Private001 R Finger22
+    400118: Daemonic Private001 R Finger2Nub
+    400120: Daemonic Private001 R Finger3
+    400122: Daemonic Private001 R Finger31
+    400124: Daemonic Private001 R Finger32
+    400126: Daemonic Private001 R Finger3Nub
+    400128: Daemonic Private001 R Finger4
+    400130: Daemonic Private001 R Finger41
+    400132: Daemonic Private001 R Finger42
+    400134: Daemonic Private001 R Finger4Nub
+    400136: Daemonic Private001 R Foot
+    400138: Daemonic Private001 R Forearm
+    400140: Daemonic Private001 R Hand
+    400142: Daemonic Private001 R Thigh
+    400144: Daemonic Private001 R Toe0
+    400146: Daemonic Private001 R Toe01
+    400148: Daemonic Private001 R Toe02
+    400150: Daemonic Private001 R Toe0Nub
+    400152: Daemonic Private001 R UpperArm
+    400154: Daemonic Private001 Spear
+    400156: Daemonic Private001 Spine
+    400158: Daemonic Private001 Spine1
+    400160: Daemonic Private001 Spine2
+    400162: Daemonic Private001 Spine3
+    400164: Daemonic Private001 suit
+    2300000: Daemonic Private001 Spear
+    3300000: Daemonic Private001 Spear
+    4300000: Daemonic Private001 Spear
+    4300002: Daemonic Private001 suit
+    9500000: //RootNode
+    13700000: Daemonic Private001 suit
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Daemonic Private001 Bip01
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

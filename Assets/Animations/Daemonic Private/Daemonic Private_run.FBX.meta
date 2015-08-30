@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: d3ab4fe1e1c6fa14885b1727d466d18e
+timeCreated: 1440858941
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Daemonic Private Bip01 Footsteps
+    100002: Daemonic Private001 Bip01
+    100004: Daemonic Private001 Bone10
+    100006: Daemonic Private001 Bone11
+    100008: Daemonic Private001 Bone12
+    100010: Daemonic Private001 Bone13
+    100012: Daemonic Private001 Bone14
+    100014: Daemonic Private001 Bone15
+    100016: Daemonic Private001 Bone16
+    100018: Daemonic Private001 Bone17
+    100020: Daemonic Private001 Head
+    100022: Daemonic Private001 HeadNub
+    100024: Daemonic Private001 L Calf
+    100026: Daemonic Private001 L Clavicle
+    100028: Daemonic Private001 L Finger0
+    100030: Daemonic Private001 L Finger01
+    100032: Daemonic Private001 L Finger02
+    100034: Daemonic Private001 L Finger0Nub
+    100036: Daemonic Private001 L Finger1
+    100038: Daemonic Private001 L Finger11
+    100040: Daemonic Private001 L Finger12
+    100042: Daemonic Private001 L Finger1Nub
+    100044: Daemonic Private001 L Finger2
+    100046: Daemonic Private001 L Finger21
+    100048: Daemonic Private001 L Finger22
+    100050: Daemonic Private001 L Finger2Nub
+    100052: Daemonic Private001 L Finger3
+    100054: Daemonic Private001 L Finger31
+    100056: Daemonic Private001 L Finger32
+    100058: Daemonic Private001 L Finger3Nub
+    100060: Daemonic Private001 L Finger4
+    100062: Daemonic Private001 L Finger41
+    100064: Daemonic Private001 L Finger42
+    100066: Daemonic Private001 L Finger4Nub
+    100068: Daemonic Private001 L Foot
+    100070: Daemonic Private001 L Forearm
+    100072: Daemonic Private001 L Hand
+    100074: Daemonic Private001 L Thigh
+    100076: Daemonic Private001 L Toe0
+    100078: Daemonic Private001 L Toe01
+    100080: Daemonic Private001 L Toe02
+    100082: Daemonic Private001 L Toe0Nub
+    100084: Daemonic Private001 L UpperArm
+    100086: Daemonic Private001 Neck
+    100088: Daemonic Private001 Pelvis
+    100090: Daemonic Private001 R Calf
+    100092: Daemonic Private001 R Clavicle
+    100094: Daemonic Private001 R Finger0
+    100096: Daemonic Private001 R Finger01
+    100098: Daemonic Private001 R Finger02
+    100100: Daemonic Private001 R Finger0Nub
+    100102: Daemonic Private001 R Finger1
+    100104: Daemonic Private001 R Finger11
+    100106: Daemonic Private001 R Finger12
+    100108: Daemonic Private001 R Finger1Nub
+    100110: Daemonic Private001 R Finger2
+    100112: Daemonic Private001 R Finger21
+    100114: Daemonic Private001 R Finger22
+    100116: Daemonic Private001 R Finger2Nub
+    100118: Daemonic Private001 R Finger3
+    100120: Daemonic Private001 R Finger31
+    100122: Daemonic Private001 R Finger32
+    100124: Daemonic Private001 R Finger3Nub
+    100126: Daemonic Private001 R Finger4
+    100128: Daemonic Private001 R Finger41
+    100130: Daemonic Private001 R Finger42
+    100132: Daemonic Private001 R Finger4Nub
+    100134: Daemonic Private001 R Foot
+    100136: Daemonic Private001 R Forearm
+    100138: Daemonic Private001 R Hand
+    100140: Daemonic Private001 R Thigh
+    100142: Daemonic Private001 R Toe0
+    100144: Daemonic Private001 R Toe01
+    100146: Daemonic Private001 R Toe02
+    100148: Daemonic Private001 R Toe0Nub
+    100150: Daemonic Private001 R UpperArm
+    100152: Daemonic Private001 Spear
+    100154: Daemonic Private001 Spine
+    100156: Daemonic Private001 Spine1
+    100158: Daemonic Private001 Spine2
+    100160: Daemonic Private001 Spine3
+    100162: Daemonic Private001 suit
+    100164: //RootNode
+    400000: Daemonic Private Bip01 Footsteps
+    400002: Daemonic Private001 Bip01
+    400004: Daemonic Private001 Bone10
+    400006: Daemonic Private001 Bone11
+    400008: Daemonic Private001 Bone12
+    400010: Daemonic Private001 Bone13
+    400012: Daemonic Private001 Bone14
+    400014: Daemonic Private001 Bone15
+    400016: Daemonic Private001 Bone16
+    400018: Daemonic Private001 Bone17
+    400020: Daemonic Private001 Head
+    400022: Daemonic Private001 HeadNub
+    400024: Daemonic Private001 L Calf
+    400026: Daemonic Private001 L Clavicle
+    400028: Daemonic Private001 L Finger0
+    400030: Daemonic Private001 L Finger01
+    400032: Daemonic Private001 L Finger02
+    400034: Daemonic Private001 L Finger0Nub
+    400036: Daemonic Private001 L Finger1
+    400038: Daemonic Private001 L Finger11
+    400040: Daemonic Private001 L Finger12
+    400042: Daemonic Private001 L Finger1Nub
+    400044: Daemonic Private001 L Finger2
+    400046: Daemonic Private001 L Finger21
+    400048: Daemonic Private001 L Finger22
+    400050: Daemonic Private001 L Finger2Nub
+    400052: Daemonic Private001 L Finger3
+    400054: Daemonic Private001 L Finger31
+    400056: Daemonic Private001 L Finger32
+    400058: Daemonic Private001 L Finger3Nub
+    400060: Daemonic Private001 L Finger4
+    400062: Daemonic Private001 L Finger41
+    400064: Daemonic Private001 L Finger42
+    400066: Daemonic Private001 L Finger4Nub
+    400068: Daemonic Private001 L Foot
+    400070: Daemonic Private001 L Forearm
+    400072: Daemonic Private001 L Hand
+    400074: Daemonic Private001 L Thigh
+    400076: Daemonic Private001 L Toe0
+    400078: Daemonic Private001 L Toe01
+    400080: Daemonic Private001 L Toe02
+    400082: Daemonic Private001 L Toe0Nub
+    400084: Daemonic Private001 L UpperArm
+    400086: Daemonic Private001 Neck
+    400088: Daemonic Private001 Pelvis
+    400090: Daemonic Private001 R Calf
+    400092: Daemonic Private001 R Clavicle
+    400094: Daemonic Private001 R Finger0
+    400096: Daemonic Private001 R Finger01
+    400098: Daemonic Private001 R Finger02
+    400100: Daemonic Private001 R Finger0Nub
+    400102: Daemonic Private001 R Finger1
+    400104: Daemonic Private001 R Finger11
+    400106: Daemonic Private001 R Finger12
+    400108: Daemonic Private001 R Finger1Nub
+    400110: Daemonic Private001 R Finger2
+    400112: Daemonic Private001 R Finger21
+    400114: Daemonic Private001 R Finger22
+    400116: Daemonic Private001 R Finger2Nub
+    400118: Daemonic Private001 R Finger3
+    400120: Daemonic Private001 R Finger31
+    400122: Daemonic Private001 R Finger32
+    400124: Daemonic Private001 R Finger3Nub
+    400126: Daemonic Private001 R Finger4
+    400128: Daemonic Private001 R Finger41
+    400130: Daemonic Private001 R Finger42
+    400132: Daemonic Private001 R Finger4Nub
+    400134: Daemonic Private001 R Foot
+    400136: Daemonic Private001 R Forearm
+    400138: Daemonic Private001 R Hand
+    400140: Daemonic Private001 R Thigh
+    400142: Daemonic Private001 R Toe0
+    400144: Daemonic Private001 R Toe01
+    400146: Daemonic Private001 R Toe02
+    400148: Daemonic Private001 R Toe0Nub
+    400150: Daemonic Private001 R UpperArm
+    400152: Daemonic Private001 Spear
+    400154: Daemonic Private001 Spine
+    400156: Daemonic Private001 Spine1
+    400158: Daemonic Private001 Spine2
+    400160: Daemonic Private001 Spine3
+    400162: Daemonic Private001 suit
+    400164: //RootNode
+    2300000: Daemonic Private001 Spear
+    3300000: Daemonic Private001 Spear
+    4300000: Daemonic Private001 Spear
+    4300002: Daemonic Private001 suit
+    7400000: Daemonic Private_run
+    9500000: //RootNode
+    13700000: Daemonic Private001 suit
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Daemonic Private_run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Daemonic Private001 Bip01
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private Bip01 Footsteps
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Bone11
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Bone11/Daemonic Private001 Bone10
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Bone13
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Bone13/Daemonic Private001 Bone12
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Bone15
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Bone15/Daemonic Private001 Bone14
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Bone17
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Bone17/Daemonic Private001 Bone16
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 L Thigh
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 L Thigh/Daemonic Private001 L Calf
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 L Thigh/Daemonic Private001 L Calf/Daemonic Private001
+          L Foot
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 L Thigh/Daemonic Private001 L Calf/Daemonic Private001
+          L Foot/Daemonic Private001 L Toe0
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 L Thigh/Daemonic Private001 L Calf/Daemonic Private001
+          L Foot/Daemonic Private001 L Toe0/Daemonic Private001 L Toe01
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 L Thigh/Daemonic Private001 L Calf/Daemonic Private001
+          L Foot/Daemonic Private001 L Toe0/Daemonic Private001 L Toe01/Daemonic Private001
+          L Toe02
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 L Thigh/Daemonic Private001 L Calf/Daemonic Private001
+          L Foot/Daemonic Private001 L Toe0/Daemonic Private001 L Toe01/Daemonic Private001
+          L Toe02/Daemonic Private001 L Toe0Nub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 R Thigh
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 R Thigh/Daemonic Private001 R Calf
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 R Thigh/Daemonic Private001 R Calf/Daemonic Private001
+          R Foot
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 R Thigh/Daemonic Private001 R Calf/Daemonic Private001
+          R Foot/Daemonic Private001 R Toe0
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 R Thigh/Daemonic Private001 R Calf/Daemonic Private001
+          R Foot/Daemonic Private001 R Toe0/Daemonic Private001 R Toe01
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 R Thigh/Daemonic Private001 R Calf/Daemonic Private001
+          R Foot/Daemonic Private001 R Toe0/Daemonic Private001 R Toe01/Daemonic Private001
+          R Toe02
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 R Thigh/Daemonic Private001 R Calf/Daemonic Private001
+          R Foot/Daemonic Private001 R Toe0/Daemonic Private001 R Toe01/Daemonic Private001
+          R Toe02/Daemonic Private001 R Toe0Nub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 Head
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 Head/Daemonic Private001
+          HeadNub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger0
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger0/Daemonic Private001 L Finger01
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger0/Daemonic Private001 L Finger01/Daemonic
+          Private001 L Finger02
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger0/Daemonic Private001 L Finger01/Daemonic
+          Private001 L Finger02/Daemonic Private001 L Finger0Nub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger1
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger1/Daemonic Private001 L Finger11
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger1/Daemonic Private001 L Finger11/Daemonic
+          Private001 L Finger12
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger1/Daemonic Private001 L Finger11/Daemonic
+          Private001 L Finger12/Daemonic Private001 L Finger1Nub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger2
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger2/Daemonic Private001 L Finger21
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger2/Daemonic Private001 L Finger21/Daemonic
+          Private001 L Finger22
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger2/Daemonic Private001 L Finger21/Daemonic
+          Private001 L Finger22/Daemonic Private001 L Finger2Nub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger3
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger3/Daemonic Private001 L Finger31
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger3/Daemonic Private001 L Finger31/Daemonic
+          Private001 L Finger32
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger3/Daemonic Private001 L Finger31/Daemonic
+          Private001 L Finger32/Daemonic Private001 L Finger3Nub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger4
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger4/Daemonic Private001 L Finger41
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger4/Daemonic Private001 L Finger41/Daemonic
+          Private001 L Finger42
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 L Finger4/Daemonic Private001 L Finger41/Daemonic
+          Private001 L Finger42/Daemonic Private001 L Finger4Nub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 L Clavicle/Daemonic
+          Private001 L UpperArm/Daemonic Private001 L Forearm/Daemonic Private001
+          L Hand/Daemonic Private001 Spear
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger0
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger0/Daemonic Private001 R Finger01
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger0/Daemonic Private001 R Finger01/Daemonic
+          Private001 R Finger02
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger0/Daemonic Private001 R Finger01/Daemonic
+          Private001 R Finger02/Daemonic Private001 R Finger0Nub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger1
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger1/Daemonic Private001 R Finger11
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger1/Daemonic Private001 R Finger11/Daemonic
+          Private001 R Finger12
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger1/Daemonic Private001 R Finger11/Daemonic
+          Private001 R Finger12/Daemonic Private001 R Finger1Nub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger2
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger2/Daemonic Private001 R Finger21
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger2/Daemonic Private001 R Finger21/Daemonic
+          Private001 R Finger22
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger2/Daemonic Private001 R Finger21/Daemonic
+          Private001 R Finger22/Daemonic Private001 R Finger2Nub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger3
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger3/Daemonic Private001 R Finger31
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger3/Daemonic Private001 R Finger31/Daemonic
+          Private001 R Finger32
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger3/Daemonic Private001 R Finger31/Daemonic
+          Private001 R Finger32/Daemonic Private001 R Finger3Nub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger4
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger4/Daemonic Private001 R Finger41
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger4/Daemonic Private001 R Finger41/Daemonic
+          Private001 R Finger42
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 Pelvis/Daemonic Private001
+          Spine/Daemonic Private001 Spine1/Daemonic Private001 Spine2/Daemonic Private001
+          Spine3/Daemonic Private001 Neck/Daemonic Private001 R Clavicle/Daemonic
+          Private001 R UpperArm/Daemonic Private001 R Forearm/Daemonic Private001
+          R Hand/Daemonic Private001 R Finger4/Daemonic Private001 R Finger41/Daemonic
+          Private001 R Finger42/Daemonic Private001 R Finger4Nub
+        weight: 1
+      - path: Daemonic Private001 Bip01/Daemonic Private001 suit
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Daemonic Private001 Bip01
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
