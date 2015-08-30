@@ -108,7 +108,7 @@ Material:
       data:
         first:
           name: _EdgeThickness
-        second: 1
+        second: 10
       data:
         first:
           name: _Parallax
@@ -157,4 +157,4 @@ Material:
       data:
         first:
           name: _ShadowColor
-        second: {r: .800000012, g: .800000012, b: 1, a: 1}
+        second: {r: .522058845, g: .522058845, b: .522058845, a: 1}
