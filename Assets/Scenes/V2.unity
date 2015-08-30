@@ -1762,6 +1762,10 @@ Prefab:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: ba565d6e87947bd449aa6a2dd0ac6e47, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ba565d6e87947bd449aa6a2dd0ac6e47, type: 3}
   m_IsPrefabParent: 0
@@ -1938,7 +1942,7 @@ NavMeshAgent:
   m_GameObject: {fileID: 1670035890}
   m_Enabled: 1
   m_Radius: .400000006
-  m_Speed: .100000001
+  m_Speed: 5
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
@@ -1974,7 +1978,7 @@ CapsuleCollider:
   m_Radius: .5
   m_Height: 1.5
   m_Direction: 1
-  m_Center: {x: 0, y: .699999988, z: 0}
+  m_Center: {x: 0, y: .800000012, z: 0}
 --- !u!1 &1851901395
 GameObject:
   m_ObjectHideFlags: 0
