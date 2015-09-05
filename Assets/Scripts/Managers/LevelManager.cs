@@ -14,6 +14,10 @@ public class LevelManager : MonoBehaviour {
 
 	void Start ()
 	{
+		if (player == null) {
+
+		}
+
 		string levelName = Application.loadedLevelName;
 
 		Debug.Log (levelName);

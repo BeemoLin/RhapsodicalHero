@@ -100,7 +100,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400140, guid: c7022ea7cd395ce4d80eae1b1b4e9a11, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.0999999
+      value: -3.0999999
       objectReference: {fileID: 0}
     - target: {fileID: 400140, guid: c7022ea7cd395ce4d80eae1b1b4e9a11, type: 3}
       propertyPath: m_LocalPosition.z
@@ -124,7 +124,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400140, guid: c7022ea7cd395ce4d80eae1b1b4e9a11, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: c7022ea7cd395ce4d80eae1b1b4e9a11, type: 3}
       propertyPath: m_IsActive
@@ -372,7 +372,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 45eb19640d945094f9c49cb8bc8e5951, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.30000019
+      value: -14.8140001
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 45eb19640d945094f9c49cb8bc8e5951, type: 3}
       propertyPath: m_LocalPosition.z
@@ -396,7 +396,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 45eb19640d945094f9c49cb8bc8e5951, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 45eb19640d945094f9c49cb8bc8e5951, type: 3}
       propertyPath: m_Name
@@ -445,8 +445,8 @@ RectTransform:
   m_RootOrder: 1
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 1.5}
-  m_SizeDelta: {x: 180, y: 25}
+  m_AnchoredPosition: {x: 0, y: 1.79999995}
+  m_SizeDelta: {x: 150, y: 20}
   m_Pivot: {x: .5, y: .5}
 --- !u!114 &663107016
 MonoBehaviour:
@@ -546,7 +546,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clickEnabled: 0
   ChangeToScene: V1
-  TP: {x: 0, y: .300000012, z: 0}
+  TP: {x: 0, y: -4, z: 0}
   player: {fileID: 0}
   cam: {fileID: 0}
   hud: {fileID: 0}
@@ -959,35 +959,35 @@ Prefab:
     m_Modifications:
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -1.16100001
+      value: -15.6000004
       objectReference: {fileID: 0}
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 8.19999981
+      value: 39.9000015
       objectReference: {fileID: 0}
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -.418000013
+      value: 68.3000031
       objectReference: {fileID: 0}
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_LocalRotation.x
-      value: .681784213
+      value: .683525324
       objectReference: {fileID: 0}
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_LocalRotation.y
-      value: -.501546025
+      value: -.571610391
       objectReference: {fileID: 0}
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_LocalRotation.z
-      value: .0609252006
+      value: -.0365349501
       objectReference: {fileID: 0}
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_LocalRotation.w
-      value: .529065251
+      value: .452459931
       objectReference: {fileID: 0}
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 10800932, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_Shadows.m_Bias
@@ -1223,7 +1223,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: .5}
   m_AnchorMax: {x: 0, y: .5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 25, y: 25}
+  m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 1, y: .5}
 --- !u!114 &1259220327
 MonoBehaviour:
@@ -1396,7 +1396,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ba565d6e87947bd449aa6a2dd0ac6e47, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.61000013
+      value: -15.0299997
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ba565d6e87947bd449aa6a2dd0ac6e47, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1806,8 +1806,8 @@ MonoBehaviour:
   _healthBar: {fileID: 663107015}
   _barColor: {r: 1, g: 0, b: 0, a: 1}
   _bgColor: {r: 0, g: 0, b: 0, a: .195999995}
-  _height: 25
-  _width: 180
+  _height: 20
+  _width: 150
   _maxValue: 180
   _value: 180
   _showValue: 1
@@ -1819,9 +1819,9 @@ MonoBehaviour:
   _nameFontSize: 14
   _levelBgColor: {r: 0, g: 0, b: 0, a: 1}
   _levelColor: {r: 1, g: 1, b: 1, a: 1}
-  _levelBackgroundSize: 25
+  _levelBackgroundSize: 20
   _levelFontSize: 14
-  _yPosition: 1.5
+  _yPosition: 1.79999995
   _faceCamera: {fileID: 0}
   OnlyShowIfDamaged: 0
 --- !u!114 &1670035894
@@ -2216,7 +2216,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: .5}
   m_AnchorMax: {x: 0, y: .5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 25, y: 25}
+  m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 1, y: .5}
 --- !u!114 &2012249082
 MonoBehaviour:
