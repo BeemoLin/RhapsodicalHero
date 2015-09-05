@@ -994,7 +994,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clickEnabled: 0
   ChangeToScene: V2
-  TP: {x: 0, y: -10, z: 0}
+  TP: {x: 44, y: -14, z: 42}
   player: {fileID: 0}
   cam: {fileID: 0}
   hud: {fileID: 0}

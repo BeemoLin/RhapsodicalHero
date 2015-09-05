@@ -15,7 +15,7 @@ public class LevelManager : MonoBehaviour {
 	void Start ()
 	{
 		if (player == null) {
-
+			player = GameObject.FindGameObjectWithTag ("Player");
 		}
 
 		string levelName = Application.loadedLevelName;

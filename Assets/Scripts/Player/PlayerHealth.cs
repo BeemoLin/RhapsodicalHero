@@ -58,7 +58,7 @@ public class PlayerHealth : MonoBehaviour
 
 		npcHealth.Value = currentHealth;
         
-		playerAudio.Play ();
+		playerAudio.Play();
 
         if(currentHealth <= 0 && !isDead)
         {
