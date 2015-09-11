@@ -19,9 +19,9 @@ Material:
         first:
           name: _MainTex
         second:
-          m_Texture: {fileID: 2800000, guid: 6bc4b041f9d2c37478874729f5787638, type: 3}
-          m_Scale: {x: 5, y: 5}
-          m_Offset: {x: -2, y: -2}
+          m_Texture: {fileID: 2800000, guid: a7dc0ee3331edb04ca9804c93498866e, type: 3}
+          m_Scale: {x: 10, y: 10}
+          m_Offset: {x: 1, y: 1}
       data:
         first:
           name: _BumpMap
@@ -108,7 +108,7 @@ Material:
       data:
         first:
           name: _EdgeThickness
-        second: 1
+        second: 20
       data:
         first:
           name: _Parallax
@@ -153,7 +153,7 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: .588, g: .588, b: .588, a: 1}
+        second: {r: .522058845, g: .522058845, b: .522058845, a: 1}
       data:
         first:
           name: _ShadowColor

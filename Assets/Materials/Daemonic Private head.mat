@@ -108,7 +108,7 @@ Material:
       data:
         first:
           name: _EdgeThickness
-        second: 1
+        second: 15
       data:
         first:
           name: _Parallax

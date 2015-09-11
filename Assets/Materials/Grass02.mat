@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Grass02
-  m_Shader: {fileID: 10511, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 10606, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_CustomRenderQueue: -1
@@ -19,7 +19,7 @@ Material:
         first:
           name: _MainTex
         second:
-          m_Texture: {fileID: 2800000, guid: 7daddb3412e292e42895a930b5b6391f, type: 3}
+          m_Texture: {fileID: 2800000, guid: 6e78061567429bd4f83d42102bc77398, type: 3}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
@@ -59,14 +59,14 @@ Material:
           m_Offset: {x: 0, y: 0}
       data:
         first:
-          name: _ShadowOffset
+          name: _DetailTex
         second:
           m_Texture: {fileID: 0}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
         first:
-          name: _DetailTex
+          name: _ShadowOffset
         second:
           m_Texture: {fileID: 0}
           m_Scale: {x: 1, y: 1}
@@ -75,7 +75,7 @@ Material:
       data:
         first:
           name: _Cutoff
-        second: .40200001
+        second: .324999988
       data:
         first:
           name: _Shininess
@@ -86,20 +86,24 @@ Material:
         second: 0
       data:
         first:
-          name: _Occlusion
-        second: 5.9000001
-      data:
-        first:
-          name: _InvFade
-        second: 1
-      data:
-        first:
           name: _EdgeThickness
         second: 1
       data:
         first:
           name: _SquashAmount
         second: 1
+      data:
+        first:
+          name: _TranslucencyViewDependency
+        second: .616999984
+      data:
+        first:
+          name: _ShadowStrength
+        second: 1
+      data:
+        first:
+          name: _Cull
+        second: 2
       data:
         first:
           name: _BaseLight
@@ -110,21 +114,17 @@ Material:
         second: 3.49000001
       data:
         first:
-          name: _Cull
-        second: 2
+          name: _Occlusion
+        second: 5.9000001
       data:
         first:
-          name: _TranslucencyViewDependency
-        second: .699999988
-      data:
-        first:
-          name: _ShadowStrength
+          name: _InvFade
         second: 1
     m_Colors:
       data:
         first:
           name: _Color
-        second: {r: .647058845, g: .647058845, b: .647058845, a: 1}
+        second: {r: .404411793, g: .404411793, b: .404411793, a: 1}
       data:
         first:
           name: _SpecColor
@@ -144,7 +144,7 @@ Material:
       data:
         first:
           name: _TranslucencyColor
-        second: {r: .730000019, g: .850000024, b: .409999996, a: 1}
+        second: {r: .427994281, g: .507352948, b: .216371104, a: 1}
       data:
         first:
           name: _HueVariation

@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Tree_leaf
-  m_Shader: {fileID: 10511, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 10606, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_CustomRenderQueue: -1
@@ -19,19 +19,19 @@ Material:
         first:
           name: _MainTex
         second:
-          m_Texture: {fileID: 2800000, guid: 3249f3d153ed7304c94d5610a8e9c052, type: 3}
-          m_Scale: {x: 1, y: 1}
+          m_Texture: {fileID: 2800000, guid: abce23f8eb3afc6439348fe8153c77dc, type: 3}
+          m_Scale: {x: 1, y: .899999976}
           m_Offset: {x: 0, y: 0}
       data:
         first:
-          name: _FalloffSampler
+          name: _BumpMap
         second:
           m_Texture: {fileID: 0}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
         first:
-          name: _RimLightSampler
+          name: _DetailTex
         second:
           m_Texture: {fileID: 0}
           m_Scale: {x: 1, y: 1}
@@ -40,36 +40,48 @@ Material:
       data:
         first:
           name: _Cutoff
-        second: .77700001
+        second: .579999983
       data:
         first:
-          name: _Occlusion
-        second: 8.60000038
+          name: _Shininess
+        second: .100000001
       data:
         first:
-          name: _EdgeThickness
-        second: 1
+          name: _WindQuality
+        second: 0
       data:
         first:
           name: _SquashAmount
         second: 1
       data:
         first:
-          name: _BaseLight
+          name: _TranslucencyViewDependency
+        second: .140000001
+      data:
+        first:
+          name: _ShadowStrength
         second: 1
       data:
         first:
+          name: _Cull
+        second: 2
+      data:
+        first:
+          name: _BaseLight
+        second: .349999994
+      data:
+        first:
           name: _AO
-        second: 4.5999999
+        second: 2.4000001
     m_Colors:
       data:
         first:
           name: _Color
-        second: {r: .588, g: .588, b: .588, a: 1}
+        second: {r: 1, g: 1, b: 1, a: 1}
       data:
         first:
-          name: _ShadowColor
-        second: {r: .800000012, g: .800000012, b: 1, a: 1}
+          name: _SpecColor
+        second: {r: 0, g: 0, b: 0, a: 0}
       data:
         first:
           name: _TreeInstanceColor
@@ -78,3 +90,11 @@ Material:
         first:
           name: _TreeInstanceScale
         second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _TranslucencyColor
+        second: {r: .889833689, g: .963235319, b: .694096029, a: 1}
+      data:
+        first:
+          name: _HueVariation
+        second: {r: 1, g: .5, b: 0, a: .100000001}
