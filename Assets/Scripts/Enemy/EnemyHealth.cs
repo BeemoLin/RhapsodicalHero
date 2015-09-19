@@ -52,6 +52,9 @@ public class EnemyHealth : MonoBehaviour
 
         //hitParticles.transform.position = hitPoint;
         //hitParticles.Play();
+		if(currentHealth > 0) {
+			anim.SetTrigger ("IsHit");
+		}
 
         if(currentHealth <= 0)
         {
@@ -65,7 +68,7 @@ public class EnemyHealth : MonoBehaviour
     {
         isDead = true;
 
-        capsuleCollider.isTrigger = true;
+        //capsuleCollider.isTrigger = true;
 
         anim.SetTrigger ("Dead");
 
@@ -79,9 +82,9 @@ public class EnemyHealth : MonoBehaviour
     public void StartSinking ()
     {
         GetComponent <NavMeshAgent> ().enabled = false;
-        GetComponent <Rigidbody> ().isKinematic = true;
+        //GetComponent <Rigidbody> ().isKinematic = true;
         isSinking = true;
-        ScoreManager.score += scoreValue;
+        //ScoreManager.score += scoreValue;
         Destroy (gameObject, 2f);
     }
 }

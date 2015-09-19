@@ -64,7 +64,7 @@ public class EnemyReadyAttack : MonoBehaviour
     {
         timer = 0f;
 
-		if (playerHealth.currentHealth > 0) {
+		if (enemyHealth.currentHealth > 0 && playerHealth.currentHealth > 0) {
 			anim.SetBool ("IsAttack", true);
 		}
     }
