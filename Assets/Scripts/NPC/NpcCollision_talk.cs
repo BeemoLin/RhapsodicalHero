@@ -20,7 +20,9 @@ public class NpcCollision_talk : MonoBehaviour {
 		
 		if (isChart) {
 			clickable2D.clickEnabled = false;
-		} 
+		} else {
+			clickable2D.clickEnabled = true;
+		}
 	}
 	
 	void OnTriggerEnter(Collider other) {

@@ -63,7 +63,7 @@ MonoBehaviour:
     y: -382.911377
     width: 1150.56897
     height: 967.848022
-  selectedBlock: {fileID: 11493192}
+  selectedBlock: {fileID: 11443614}
   selectedCommands: []
   variables:
   - {fileID: 11422024}
@@ -195,7 +195,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 290.506256
+    x: 280.61615
     y: 109.493637
     width: 120
     height: 40
@@ -392,7 +392,7 @@ Prefab:
     - target: {fileID: 0}
       propertyPath: selectedBlock
       value: 
-      objectReference: {fileID: 11493192}
+      objectReference: {fileID: 11443614}
     - target: {fileID: 0}
       propertyPath: nodeRect.y
       value: 32.1115646
@@ -412,6 +412,14 @@ Prefab:
     - target: {fileID: 0}
       propertyPath: selectedCommands.Array.data[0]
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: activeState.booleanRef
+      value: 
+      objectReference: {fileID: 11422024}
+    - target: {fileID: 0}
+      propertyPath: nodeRect.x
+      value: 280.61615
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
