@@ -37,6 +37,9 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+--- !u!127 &3
+LevelGameManager:
+  m_ObjectHideFlags: 0
 --- !u!157 &4
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -65,7 +68,6 @@ LightmapSettings:
     m_TextureCompression: 1
     m_FinalGather: 0
     m_FinalGatherRayCount: 1024
-    m_ReflectionCompression: 2
   m_LightmapSnapshot: {fileID: 0}
   m_RuntimeCPUUsage: 25
 --- !u!196 &5
@@ -1402,12 +1404,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 213ead361d2a80d4495d3ae26e1bd99e, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
@@ -1959,7 +1955,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d205c78dfdfc62e43aef9114071f1507, type: 3}
       propertyPath: m_RootOrder
-      value: 21
+      value: 19
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d205c78dfdfc62e43aef9114071f1507, type: 3}
@@ -2512,7 +2508,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 492514, guid: a96b605272601a940aa1e0163f46d4fc, type: 2}
       propertyPath: m_RootOrder
-      value: 21
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 11468180, guid: a96b605272601a940aa1e0163f46d4fc, type: 2}
       propertyPath: character
@@ -2783,7 +2779,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9a0b624a342d3c64fb36d803e4130ba7, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 11
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9a0b624a342d3c64fb36d803e4130ba7, type: 3}
@@ -3078,23 +3074,23 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b1313decdffc254faae75007c721a7e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -.494535536
+      value: -.494535565
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b1313decdffc254faae75007c721a7e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: .505405366
+      value: .505405426
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b1313decdffc254faae75007c721a7e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: .505405366
+      value: .505405426
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b1313decdffc254faae75007c721a7e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: .494535536
+      value: .494535565
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b1313decdffc254faae75007c721a7e, type: 3}
       propertyPath: m_RootOrder
-      value: 25
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 7b1313decdffc254faae75007c721a7e, type: 3}
       propertyPath: m_Name
@@ -3406,12 +3402,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 150
@@ -3461,7 +3451,7 @@ MonoBehaviour:
   m_Script: {fileID: 1997211142, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_ForceModuleActive: 0
+  m_AllowActivationOnStandalone: 0
 --- !u!114 &1499453569
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3479,7 +3469,7 @@ MonoBehaviour:
   m_CancelButton: Cancel
   m_InputActionsPerSecond: 10
   m_RepeatDelay: .5
-  m_ForceModuleActive: 0
+  m_AllowActivationOnMobileDevice: 0
 --- !u!114 &1499453570
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3543,7 +3533,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 22488902, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 2}
       propertyPath: m_RootOrder
-      value: 23
+      value: 21
       objectReference: {fileID: 0}
     - target: {fileID: 22488902, guid: 8a005a9e0713f4cc1b5ad29fb07657d3, type: 2}
       propertyPath: m_AnchoredPosition.x
@@ -3958,23 +3948,23 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 36dafad513cae51498b7129d777fb8b9, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -.500813842
+      value: -.500813782
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 36dafad513cae51498b7129d777fb8b9, type: 3}
       propertyPath: m_LocalRotation.y
-      value: .499184877
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 36dafad513cae51498b7129d777fb8b9, type: 3}
-      propertyPath: m_LocalRotation.z
       value: .499184817
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 36dafad513cae51498b7129d777fb8b9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: .499184757
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 36dafad513cae51498b7129d777fb8b9, type: 3}
       propertyPath: m_LocalRotation.w
-      value: .500813961
+      value: .500813901
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 36dafad513cae51498b7129d777fb8b9, type: 3}
       propertyPath: m_RootOrder
-      value: 22
+      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 36dafad513cae51498b7129d777fb8b9, type: 3}
@@ -4016,7 +4006,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_RootOrder
-      value: 24
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 433672, guid: 91106f58b95b4494692aa054c4a7d9a7, type: 2}
       propertyPath: m_LocalScale.x

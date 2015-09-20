@@ -32,7 +32,7 @@ public class EnemyHealth : MonoBehaviour
 
     void Update ()
     {
-        if(isSinking)
+		if(isSinking)
         {
             transform.Translate (-Vector3.up * sinkSpeed * Time.deltaTime);
         }
@@ -52,15 +52,12 @@ public class EnemyHealth : MonoBehaviour
 
         //hitParticles.transform.position = hitPoint;
         //hitParticles.Play();
-		if(currentHealth > 0) {
+
+        if (currentHealth <= 0) {
+			Death ();
+		} else {
 			anim.SetTrigger ("IsHit");
 		}
-
-        if(currentHealth <= 0)
-        {
-			Debug.Log (currentHealth);
-            Death ();
-        }
     }
 
 
@@ -68,7 +65,7 @@ public class EnemyHealth : MonoBehaviour
     {
         isDead = true;
 
-        //capsuleCollider.isTrigger = true;
+        capsuleCollider.isTrigger = true;
 
         anim.SetTrigger ("Dead");
 
@@ -81,10 +78,10 @@ public class EnemyHealth : MonoBehaviour
 
     public void StartSinking ()
     {
-        GetComponent <NavMeshAgent> ().enabled = false;
-        //GetComponent <Rigidbody> ().isKinematic = true;
+		GetComponent <NavMeshAgent> ().enabled = false;
+        GetComponent <Rigidbody> ().isKinematic = true;
         isSinking = true;
-        //ScoreManager.score += scoreValue;
+        ScoreManager.score += scoreValue;
         Destroy (gameObject, 2f);
     }
 }

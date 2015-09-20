@@ -20,8 +20,6 @@ public class LevelManager : MonoBehaviour {
 
 		string levelName = Application.loadedLevelName;
 
-		Debug.Log (levelName);
-
 		if (levelName.Equals("Initial")) {
 			ChangeTo (ChangeToScene);
 		}
@@ -29,7 +27,6 @@ public class LevelManager : MonoBehaviour {
 
 	void OnMouseDown()
 	{
-		Debug.Log (clickEnabled);
 		if (!clickEnabled)
 		{
 			return;

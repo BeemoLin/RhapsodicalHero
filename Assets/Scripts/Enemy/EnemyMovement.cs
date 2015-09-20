@@ -31,6 +31,7 @@ public class EnemyMovement : MonoBehaviour
 				anim.SetBool ("IsRun", true);
 			}
         } else {
+			anim.SetBool ("IsRun", false);
             nav.enabled = false;
         }
 

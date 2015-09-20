@@ -217,13 +217,17 @@ Prefab:
     - target: {fileID: 11432822, guid: c870a1c68771b4d6aaa0527918665e4b, type: 2}
       propertyPath: enemy
       value: 
-      objectReference: {fileID: 135866, guid: 275729e93a5d5456b91c88aa7390621d, type: 2}
+      objectReference: {fileID: 161934, guid: 275729e93a5d5456b91c88aa7390621d, type: 2}
     - target: {fileID: 11432822, guid: c870a1c68771b4d6aaa0527918665e4b, type: 2}
       propertyPath: spawnPoints.Array.data[0]
       value: 
       objectReference: {fileID: 1360586690}
     - target: {fileID: 11432822, guid: c870a1c68771b4d6aaa0527918665e4b, type: 2}
       propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11432822, guid: c870a1c68771b4d6aaa0527918665e4b, type: 2}
+      propertyPath: spawnTime
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
