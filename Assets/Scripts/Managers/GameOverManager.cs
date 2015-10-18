@@ -4,7 +4,9 @@ public class GameOverManager : MonoBehaviour
 {
     public PlayerHealth playerHealth;
 	public float restartDelay = 5f;
-
+	public GameObject player;
+	public GameObject cam;
+	public GameObject hud;
 
     Animator anim;
 	float restartTimer;
@@ -12,6 +14,18 @@ public class GameOverManager : MonoBehaviour
     void Awake()
     {
         anim = GetComponent<Animator>();
+
+		if (player == null) {
+			player = GameObject.FindGameObjectWithTag ("Player");
+		}
+
+		if (cam == null) {
+			cam = GameObject.FindGameObjectWithTag ("MainCamera");
+		}
+		
+		if (hud == null) {
+			hud = GameObject.FindGameObjectWithTag ("HUD");
+		}
     }
 
 
@@ -24,7 +38,10 @@ public class GameOverManager : MonoBehaviour
 			restartTimer += Time.deltaTime;
 			
 			if (restartTimer >= restartDelay) {
-				Application.LoadLevel(Application.loadedLevel);
+				Destroy(player);
+				Destroy(cam);
+				Destroy(hud);
+				Application.LoadLevel("Initial");
 			}
         }
     }

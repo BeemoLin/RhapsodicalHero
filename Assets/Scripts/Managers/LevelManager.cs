@@ -18,6 +18,14 @@ public class LevelManager : MonoBehaviour {
 			player = GameObject.FindGameObjectWithTag ("Player");
 		}
 
+		if (cam == null) {
+			cam = GameObject.FindGameObjectWithTag ("MainCamera");
+		}
+
+		if (hud == null) {
+			hud = GameObject.FindGameObjectWithTag ("HUD");
+		}
+
 		string levelName = Application.loadedLevelName;
 
 		if (levelName.Equals("Initial")) {
